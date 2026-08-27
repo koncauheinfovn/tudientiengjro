@@ -1,274 +1,130 @@
 {
   "title": "Từ điển Jro (Chrau) – Tiếng Việt",
-  "total": 501,
+  "total": 527,
   "entries": [
     {
       "jro": "vơn",
-      "vi": "chúng ta, ta, mình",
-      "examples": [
-        "Ti vơn vơn ôp yah dông. → Bài ôn: Tự làm lấy",
-        "Õh Lạc nhai bây ganai: \"Vơn phải jơ sên bàng cồ vơn học.\" → Lạc khuyên bạn: \"Ta nên giữ gìn bàn học.\"",
-        "Õh Ngắt nhai: \"Vơn phải jơ ding nhi dijrõh. Ding nhi jrõh, noq nhi trương yah rom.\" → Hồng nói: \"Chúng ta giữ tường cho sạch. Tường có sạch, trường mới đẹp.\""
-      ]
+      "vi": "chúng ta, ta, mình"
     },
     {
       "jro": "anh",
-      "vi": "tôi, mình",
-      "examples": [
-        "\"May mo, anh đăng sa.\" → \"Cám ơn, tôi không ăn.\""
-      ]
+      "vi": "tôi, mình"
     },
     {
       "jro": "may",
-      "vi": "bạn, mày, người đối diện",
-      "examples": [
-        "\"May mo, anh đăng sa.\" → \"Cám ơn, tôi không ăn.\"",
-        "Õh Nam nhai: \"Õh may mo Thầy.\" → Nam nói: \"Em cám ơn thầy.\"",
-        "Nděh đò tất gatŭq cheq vu jur. Tamun mprăng nděh tangât may. Ăp lâm lapông nděh něh pơq. Ăp ndu saq jur a nděh. → Xe đò đã vào bến. Tài xế tắt máy. Các cửa xe đều mở. Mọi người lần lượt xuống xe."
-      ]
+      "vi": "bạn, mày, người đối diện"
     },
     {
       "jro": "něh",
-      "vi": "nó, anh ấy, cô ấy, em ấy, người ấy",
-      "examples": [
-        "Vap něh khwai. → Ba đang cuốc đất.",
-        "Õh Sănh mprăng, něh vông hlâq. → Trò Sanh chạy. Em bị té.",
-        "Õh Lạc nhai: \"Ơ Thầy, pôp Sănh něh vông hlâq tĩq.\" → Lạc nói: \"Thưa thầy, anh Sanh té kìa.\""
-      ]
+      "vi": "nó, anh ấy, cô ấy, em ấy, người ấy"
     },
     {
       "jro": "khây",
-      "vi": "các, bọn, chúng (chỉ số nhiều)",
-      "examples": [
-        "\"Khây con vâng sa bănh cồ tăch bây trong.\" → \"Các con đừng ăn bánh bán dọc đường.\"",
-        "\"Khây ŏh gũq yah jwa rangăp.\" → \"Các em hãy giữ im lặng.\"",
-        "Khây ganai mprăng tât. → Các bạn vội chạy đến."
-      ]
+      "vi": "các, bọn, chúng (chỉ số nhiều)"
     },
     {
       "jro": "ayh",
-      "vi": "tự, tự mình, lấy (tự làm lấy)",
-      "examples": [
-        "Đuyh sêch ayh. → Đánh răng lấy.",
-        "Tu mặt ayh. → Rửa mặt lấy.",
-        "Saih sõq ayh. → Chải đầu lấy."
-      ]
+      "vi": "tự, tự mình, lấy (tự làm lấy)"
     },
     {
       "jro": "vu",
-      "vi": "người ta, ai, người khác",
-      "examples": [
-        "Đăng cơnh vu lây ôp an. → Đuyh sêch saih sõq gâl ao,",
-        "Vu lây cồ tih? Vu lây cồ gal? → Ai đúng? Ai sai?",
-        "• Siraq heq vu lây de? Õh Lạc văt siraq canoq caheq? → (Sách của học sinh: Lạc cầm giữ sách bằng hai tay cẩn thận, mở nhẹ nhàng)."
-      ]
+      "vi": "người ta, ai, người khác"
     },
     {
       "jro": "lây",
-      "vi": "nào, gì",
-      "examples": [
-        "Đăng cơnh vu lây ôp an. → Đuyh sêch saih sõq gâl ao,",
-        "Õh cơnh gatũq lây? → Em thích cảnh nào?",
-        "Vap ôp păch lây? → Ba làm gì?"
-      ]
+      "vi": "nào, gì"
     },
     {
       "jro": "canoq",
-      "vi": "như vậy, như thế",
-      "examples": [
-        "Õh heq dê khen ha đăng? Luh canoq? → Em bé nầy có đáng khen không? Tại sao?",
-        "• Var ndu heq ôp păch lây? Õh cơnh pơch đăng? Luh canoq? → (Hai bạn bẻ cành cây / phá rào: Không nên bắt chước vì làm hỏng cây và rào).",
-        "• Siraq heq vu lây de? Õh Lạc văt siraq canoq caheq? → (Sách của học sinh: Lạc cầm giữ sách bằng hai tay cẩn thận, mở nhẹ nhàng)."
-      ]
+      "vi": "như vậy, như thế"
     },
     {
       "jro": "caheq",
-      "vi": "như thế này, cách này",
-      "examples": [
-        "• Siraq heq vu lây de? Õh Lạc văt siraq canoq caheq? → (Sách của học sinh: Lạc cầm giữ sách bằng hai tay cẩn thận, mở nhẹ nhàng).",
-        "Vap nhai bây var ndu con: \"Vâng saq caheq.\" → (Ba bảo hai con: \"Không nên đi đứng cách này [cúi khòm/lười biếng].\")",
-        "Õh lu lâh canoq caheq? → (Em nghỉ ngơi thế nào?)"
-      ]
+      "vi": "như thế này, cách này"
     },
     {
       "jro": "heq",
-      "vi": "này, đây",
-      "examples": [
-        "\"Bănh heq pa-am lũng!\" → \"Bánh nầy ngon lắm!\"",
-        "Õh heq dê khen ha đăng? Luh canoq? → Em bé nầy có đáng khen không? Tại sao?",
-        "Õh Lạc nhai: \"Ơ Thầy, maq khây ŏh de đăng sa. Mvac pôp heq něh pâm dip paniq ŏh de en.\" → Lạc nói: \"Thưa thầy, toán chúng em thua. Anh nầy đã đập trúng vai em.\""
-      ]
+      "vi": "này, đây"
     },
     {
       "jro": "nõq",
-      "vi": "đó, ấy, kia",
-      "examples": [
-        "Õh Ngắt nhai bây ŏh Lạc: \"Nhi ratung ăch sindặc noq. Õh lăp sũng nõq cheq saq nggô, saq nôm.\" → Hồng bảo Lạc: \"Nhà tiêu sẵn đó. Em hãy vào trong mà tiêu, tiểu.\"",
-        "Du mvu cô camvĩnh jingo măt chol chhơ gadông cheq wõng trong saq. Khây con se mprăng bây. Khây něh jiloq cô camvĩnh nõq. → Một ông lão mù chống gậy dò đường đi. Mấy đứa trẻ chạy theo. Chúng chế riễu ông.",
-        "Saq du vau trong, ŏh Lạc sây du mvu něh rung candoq lăp sũng thùng. Õh Lạc nhai bây pôp: \"Rung candoq sũng thùng canoq, nõq něh jrõh, gal đăng pôp?\" → Õh Ngắt âh: \"Gal ầm.\""
-      ]
+      "vi": "đó, ấy, kia"
     },
     {
       "jro": "tĩq",
-      "vi": "kìa, đằng kia",
-      "examples": [
-        "Õh Lạc nhai: \"Ơ Thầy, pôp Sănh něh vông hlâq tĩq.\" → Lạc nói: \"Thưa thầy, anh Sanh té kìa.\"",
-        "Õh Ngắt bây ŏh Lạc tất kwận. Var ndu khây něh lăp u vi cồ lêng. Õh Lạc cơnh saq u vi canji cheq nhup cũm-kim. Õh Ngắt pâh ŏh bây nhai panh: \"Õh sên u bàng nõq tĩq, păch něh nhai?\" → [BẢNG: CẤM ĐI TRÊN BỒN CỎ]"
-      ]
+      "vi": "kìa, đằng kia"
     },
     {
       "jro": "de",
-      "vi": "của, thuộc về",
-      "examples": [
-        "Ao ŏh Lạc de hec. Mê tavôl sĩq vlâq. → Áo Lạc rách. Má khâu lại.",
-        "Nhi ŏh Lạc de gěh tamuôi. → Nhà Lạc có khách.",
-        "Ganai ŏh Lạc de něh tăm-loq. → Bạn Lạc đang gây gổ."
-      ]
+      "vi": "của, thuộc về"
     },
     {
       "jro": "vap",
-      "vi": "ba, cha, bố",
-      "examples": [
-        "Vap cơnh ôp. → Ba làm việc.",
-        "Vap něh khwai. → Ba đang cuốc đất.",
-        "Vap tamti ŏh Lạc học. → Ba dạy Lạc học."
-      ]
+      "vi": "ba, cha, bố"
     },
     {
       "jro": "mê",
-      "vi": "má, mẹ",
-      "examples": [
-        "Mê pih ao mphla. → Má giặt quần áo.",
-        "Mê arung phe. → Má sảy gạo.",
-        "Mê tavôl ao. → Má vá áo."
-      ]
+      "vi": "má, mẹ"
     },
     {
       "jro": "ŏh",
-      "vi": "em, bé, trò",
-      "examples": [
-        "Mê dăng mùng an ŏh Thut viq. → Má thả mùng cho Việt ngủ.",
-        "Mê tandum an ŏh Thut ium. → Má tắm cho Việt.",
-        "Ao ŏh Lạc de hec. Mê tavôl sĩq vlâq. → Áo Lạc rách. Má khâu lại."
-      ]
+      "vi": "em, bé, trò"
     },
     {
       "jro": "pôp",
-      "vi": "anh, chị (người lớn tuổi hơn thế hệ ngang hàng)",
-      "examples": [
-        "\"Saq cuôl pôp Ngắt sĩq mê cơnh!\" → \"Đi gọi Hồng về cho má!\"",
-        "\"Ơ pôp. Mê cuôl. Pôp sĩq lawân ơ.\" → \"Chị ơi! Má kêu. Chị về liền nhé!\"",
-        "Õh Lạc nhai: \"Ơ Thầy, pôp Sănh něh vông hlâq tĩq.\" → Lạc nói: \"Thưa thầy, anh Sanh té kìa.\""
-      ]
+      "vi": "anh, chị (người lớn tuổi hơn thế hệ ngang hàng)"
     },
     {
       "jro": "con",
-      "vi": "con, đứa con",
-      "examples": [
-        "- Mê tamti tanh su (Má dạy con dệt vải). → - Mê an con huch jrơu / siêm con (Má đút cháo/thuốc cho con).",
-        "\"Khây con vâng sa bănh cồ tăch bây trong.\" → \"Các con đừng ăn bánh bán dọc đường.\"",
-        "\"Con saq cuôl vap sĩq roc tamuôi.\" → \"Con mời ba về tiếp khách.\""
-      ]
+      "vi": "con, đứa con"
     },
     {
       "jro": "con se",
-      "vi": "trẻ con, đứa bé, học sinh nhỏ",
-      "examples": [
-        "Yáo yiêng tamti con se lêng. → Thầy hướng dẫn học sinh chơi.",
-        "Õh Ngắt bây ŏh Lạc vlam du mintan con se tăm-nchoq. Du mvu chhưl dip tamun cồ saq u trong. → Hồng và Lạc gặp một bọn trẻ đang rượt nhau. Một đứa xô vào một người đi đường.",
-        "Du mvu ndây mprăng lũh vlac candal trong. Du tong nděh jot něh saq tất. Bây něh pâh (thắng) dăn. Noq con se noq něh ntrach ji. → Đứa khác chạy ra giữa đường. Một chiếc xe đạp trờ tới. Xe thắng kịp. Đứa bé thoát khỏi tai nạn."
-      ]
+      "vi": "trẻ con, đứa bé, học sinh nhỏ"
     },
     {
       "jro": "un",
-      "vi": "bà",
-      "examples": [
-        "Õh Ngắt dợp li daq an un iưn. → Hồng đưa bầu nước uống cho bà."
-      ]
+      "vi": "bà"
     },
     {
       "jro": "cô",
-      "vi": "ông, cụ già",
-      "examples": [
-        "Õh Lạc dợp goq an cô iưn. → Lạc đưa ống điếu cho ông.",
-        "Du mvu cô camvĩnh jingo măt chol chhơ gadông cheq wõng trong saq. Khây con se mprăng bây. Khây něh jiloq cô camvĩnh nõq. → Một ông lão mù chống gậy dò đường đi. Mấy đứa trẻ chạy theo. Chúng chế riễu ông.",
-        "Õh Ngắt nhai: \"Bưn bap cô camvĩnh jingo măt. Khây ŏh vâng jiloq cô camvĩnh năq vây.\" → Hồng nói: \"Tội nghiệp ông lão mù. Các em đừng chế riễu ông ấy.\""
-      ]
+      "vi": "ông, cụ già"
     },
     {
       "jro": "yông",
-      "vi": "dì, cô, bác gái",
-      "examples": [
-        "Yông Pe ji. Õh Ngắt bây ŏh Lạc saq mơq yông. Var ndu khây něh lũh ntrach a nhi. → Dì Ba đau. Hồng và Lạc đi thăm dì. Hai em ra khỏi nhà.",
-        "Õh Ngắt bây ŏh Lạc mơch palây yông de. Õh Lạc nhai: \"Vrêq vơn găn maq toq trong vớn pôp!\" → Hồng và Lạc gần tới làng của dì. Lạc nói: \"Mình qua đường đi chị.\""
-      ]
+      "vi": "dì, cô, bác gái"
     },
     {
       "jro": "tamun",
-      "vi": "người, con người",
-      "examples": [
-        "Õh Ngắt bây ŏh Lạc vlam du mintan con se tăm-nchoq. Du mvu chhưl dip tamun cồ saq u trong. → Hồng và Lạc gặp một bọn trẻ đang rượt nhau. Một đứa xô vào một người đi đường.",
-        "• Õh yúp đở tamun [jingo măt] (Em giúp đỡ người [tàn tật/mù]). → • Õh rung candoq lăp sũng [thùng] (Em đổ rác vào [thùng]).",
-        "Nděh đò tất gatŭq cheq vu jur. Tamun mprăng nděh tangât may. Ăp lâm lapông nděh něh pơq. Ăp ndu saq jur a nděh. → Xe đò đã vào bến. Tài xế tắt máy. Các cửa xe đều mở. Mọi người lần lượt xuống xe."
-      ]
+      "vi": "người, con người"
     },
     {
       "jro": "ganai",
-      "vi": "bạn bè, các bạn, bạn",
-      "examples": [
-        "Õh Ngắt, ŏh Lạc bây ganai chào Thầy. → Hồng, Lạc và các bạn chào thầy.",
-        "Thầy-yáo ji. Õh Lạc bây ganai saq mơq Thầy-yáo. → Thầy đau. Lạc và các bạn đến thăm thầy.",
-        "Thầy me lẽq ji. Õh Lạc bây ganai đăng thêng ôp ngây phũng Thầy hyoq. → Thầy vừa hết bệnh. Lạc và các bạn không làm ồn để thầy khỏi mệt."
-      ]
+      "vi": "bạn bè, các bạn, bạn"
     },
     {
       "jro": "thầy-yáo",
-      "vi": "thầy giáo",
-      "examples": [
-        "Thầy-yáo tamti ŏh Lạc yiệt. → Thầy dạy Lạc viết.",
-        "Thầy-yáo tamti tập đọc. → Thầy dạy tập đọc.",
-        "Thầy-yáo đơm prau. → Thầy kể chuyện."
-      ]
+      "vi": "thầy giáo"
     },
     {
       "jro": "yáo yiêng",
-      "vi": "cô giáo / thầy giáo / giáo viên",
-      "examples": [
-        "Yáo yiêng tamti con se lêng. → Thầy hướng dẫn học sinh chơi.",
-        "GaTrúc wĩnh bây yáo yiêng an ŏh Mai lu học. → Trúc xin phép cho Mai nghỉ học.",
-        "Yáo yiêng lũp: \"Vi ŏh Mai?\" GaTrúc nhai: \"Õh con de něh khay sa.\" → Cô giáo hỏi: 'Mai đâu?' Trúc thưa: 'Em con bị cảm.'"
-      ]
+      "vi": "cô giáo / thầy giáo / giáo viên"
     },
     {
       "jro": "học sĩnh",
-      "vi": "học sinh, trò",
-      "examples": [
-        "Học sĩnh chào cờ. → Khây ŏh tao yaq yăh sõng."
-      ]
+      "vi": "học sinh, trò"
     },
     {
       "jro": "tamuôi",
-      "vi": "khách, khách đến nhà, hành khách",
-      "examples": [
-        "Nhi ŏh Lạc de gěh tamuôi. → Nhà Lạc có khách.",
-        "\"Con saq cuôl vap sĩq roc tamuôi.\" → \"Con mời ba về tiếp khách.\"",
-        "\"Ơ vap, nhi gěh tamuôi.\" → \"Thưa ba, có khách ạ!\""
-      ]
+      "vi": "khách, khách đến nhà, hành khách"
     },
     {
       "jro": "cảnh-sát",
-      "vi": "cảnh sát, cảnh sát viên, cảnh binh",
-      "examples": [
-        "Heq là Cảnh-Sát. → Đây là Cảnh-sát-viên.",
-        "Cảnh-Sát yúp đở vơn. Něh la ganai vơn de. → Cảnh-sát-viên giúp đỡ chúng ta. Cảnh-sát-viên là bạn chúng ta."
-      ]
+      "vi": "cảnh sát, cảnh sát viên, cảnh binh"
     },
     {
       "jro": "y-tá",
-      "vi": "cô y tá, cán bộ y tế",
-      "examples": [
-        "Y-Tá tăm play an GaTrúc iưn. → Cô y tá chủng đậu cho Trúc."
-      ]
+      "vi": "cô y tá, cán bộ y tế"
     },
     {
       "jro": "rup",
@@ -276,78 +132,39 @@
     },
     {
       "jro": "vôq",
-      "vi": "đầu",
-      "examples": [
-        "Õh Ngắt nhai: \"Cơnh saq găn trong phải deng vôq deng lur.\" → Hồng đáp: \"Qua đường phải nhìn trước, ngó sau.\"",
-        "GaTrúc lơ vôq ti jrõh. → Trúc khoe tay sạch.",
-        "Õh Mai lơ vôq jâng jrõh. → Mai khoe chân sạch."
-      ]
+      "vi": "đầu"
     },
     {
       "jro": "sõq",
-      "vi": "tóc",
-      "examples": [
-        "Saih sõq ayh. → Chải đầu lấy.",
-        "Õh Mai saih sõq. → Mai chải đầu.",
-        "Sõq GaTrúc de něh căt dêh. → (Tóc Trúc được hớt ngắn.)"
-      ]
+      "vi": "tóc"
     },
     {
       "jro": "mat",
-      "vi": "mặt, đôi mắt",
-      "examples": [
-        "Du mat wõq, nděh đò ndây tất. Nděh heq takiq tamuôi. Õh Ngắt bây ŏh Lạc hao nděh bây lăp sũng galăm. Ăp ndu gũq du lâm gê. → Lát sau, một chiếc xe đò khác tới. Xe nầy thưa khách. Hồng và Lạc lên xe bước vào trong. Mỗi em ngồi một ghế."
-      ]
+      "vi": "mặt, đôi mắt"
     },
     {
       "jro": "muh",
-      "vi": "mũi",
-      "examples": [
-        "Õh Mai huch văt nseng muh. → Mai quên dùng khăn tay.",
-        "GaTrúc khoi huch văt nseng muh. → Trúc quên dùng khăn tay.",
-        "Õh Mai nhup nseng cheq chhêr muh. → Mai dùng khăn tay hỉ mũi."
-      ]
+      "vi": "mũi"
     },
     {
       "jro": "mình",
-      "vi": "miệng, môi",
-      "examples": [
-        "Chúng mình giờ đà khôn lớn, → Không muốn luôn luôn phiền ai."
-      ]
+      "vi": "miệng, môi"
     },
     {
       "jro": "sêch",
-      "vi": "răng",
-      "examples": [
-        "Đuyh sêch ayh. → Đánh răng lấy.",
-        "Õh Mai đuyh sêch. → Mai đánh răng.",
-        "GaTrúc đuyh sêch. → Trúc đánh răng."
-      ]
+      "vi": "răng"
     },
     {
       "jro": "ti",
-      "vi": "tay, bàn tay",
-      "examples": [
-        "Ti vơn vơn ôp yah dông. → Bài ôn: Tự làm lấy",
-        "Õh Ngắt rao ti an ŏh iưn. → Hồng rửa tay cho em.",
-        "Nděh mprăng u trong. Õh Lạc ntõng ti lũh pađau khây păch cồ rom. Ngắt đức ti ŏh de bây nhai: \"Lăm gũq sũng nděh, vâng ntõng ti lũh tu ling.\" → Xe chạy bon-bon trên đường. Lạc thò tay ra ngoài chỉ trỏ cảnh vật. Hồng vội kéo tay em vào và bảo: \"Khi đi xe, không nên thò tay ra ngoài.\""
-      ]
+      "vi": "tay, bàn tay"
     },
     {
       "jro": "can'hyêih ti",
-      "vi": "móng tay",
-      "examples": [
-        "GaTrúc bây ŏh Mai něh chit can'hyêih ti a păch cồ sột. → (Trúc, Mai đã cắt ngắn móng tay bằng dao, kéo, cái bấm móng tay.)"
-      ]
+      "vi": "móng tay"
     },
     {
       "jro": "jâng",
-      "vi": "chân, bàn chân",
-      "examples": [
-        "Nděh mơch gũq sĩq vlâq. Du mvu něh tamtroh jur. Něh tachrơng jâng bây vông joch. → Xe từ từ vào bến. Một người vội vã nhảy xuống. Anh trượt chân, té sấp.",
-        "Õh Mai lơ vôq jâng jrõh. → Mai khoe chân sạch.",
-        "So vĩq mơch jâng GaTrúc de. → Con Mực nằm ngủ gần chân Trúc."
-      ]
+      "vi": "chân, bàn chân"
     },
     {
       "jro": "candưl",
@@ -355,11 +172,7 @@
     },
     {
       "jro": "tiêng",
-      "vi": "đuôi (thú)",
-      "examples": [
-        "Ơ Mai! Vâng đức tiêng meo. → Mai ơi! Đừng kéo đuôi mèo.",
-        "GaTrúc uěh đức tiêng meo. GaTrúc uěh văt chhơ pâm so. → Trúc thường kéo đuôi con Miu. Trúc hay cầm que đánh chó."
-      ]
+      "vi": "đuôi (thú)"
     },
     {
       "jro": "nuih",
@@ -367,186 +180,91 @@
     },
     {
       "jro": "ao mphla",
-      "vi": "quần áo, y phục",
-      "examples": [
-        "Gâl ao mphla ndây bây chuq yep ayh. → Thay quần áo và mang dép lấy.",
-        "Taklôn mùng, su, vêl bây ao mphla. → Xếp đặt mùng, mền, chiếu và quần áo.",
-        "Mê pih ao mphla. → Má giặt quần áo."
-      ]
+      "vi": "quần áo, y phục"
     },
     {
       "jro": "ao",
-      "vi": "áo",
-      "examples": [
-        "Gâl ao mphla ndây bây chuq yep ayh. → Thay quần áo và mang dép lấy.",
-        "Taklôn mùng, su, vêl bây ao mphla. → Xếp đặt mùng, mền, chiếu và quần áo.",
-        "Mê pih ao mphla. → Má giặt quần áo."
-      ]
+      "vi": "áo"
     },
     {
       "jro": "mphla",
-      "vi": "quần",
-      "examples": [
-        "Gâl ao mphla ndây bây chuq yep ayh. → Thay quần áo và mang dép lấy.",
-        "Taklôn mùng, su, vêl bây ao mphla. → Xếp đặt mùng, mền, chiếu và quần áo.",
-        "Mê pih ao mphla. → Má giặt quần áo."
-      ]
+      "vi": "quần"
     },
     {
       "jro": "yep",
-      "vi": "dép, dép quai kẹp",
-      "examples": [
-        "Gâl ao mphla ndây bây chuq yep ayh. → Thay quần áo và mang dép lấy."
-      ]
+      "vi": "dép, dép quai kẹp"
     },
     {
       "jro": "mùng",
-      "vi": "mùng, màn che muỗi",
-      "examples": [
-        "Taklôn mùng, su, vêl bây ao mphla. → Xếp đặt mùng, mền, chiếu và quần áo.",
-        "Mê dăng mùng an ŏh Thut viq. → Má thả mùng cho Việt ngủ.",
-        "Mê dăng mùng. → Mẹ buông mùng."
-      ]
+      "vi": "mùng, màn che muỗi"
     },
     {
       "jro": "su",
-      "vi": "mền, chăn, tấm vải đắp",
-      "examples": [
-        "Taklôn mùng, su, vêl bây ao mphla. → Xếp đặt mùng, mền, chiếu và quần áo.",
-        "Mê tamti ŏh Ngắt tanh su. → Má dạy Hồng dệt vải.",
-        "- Mê tamti tanh su (Má dạy con dệt vải). → - Mê an con huch jrơu / siêm con (Má đút cháo/thuốc cho con)."
-      ]
+      "vi": "mền, chăn, tấm vải đắp"
     },
     {
       "jro": "vêl",
-      "vi": "chiếu, tấm chiếu ngủ",
-      "examples": [
-        "Taklôn mùng, su, vêl bây ao mphla. → Xếp đặt mùng, mền, chiếu và quần áo."
-      ]
+      "vi": "chiếu, tấm chiếu ngủ"
     },
     {
       "jro": "siraq",
-      "vi": "sách, vở, chữ viết, giấy tờ",
-      "examples": [
-        "Chẽq siraq yah đắp nđắp. → Xếp sách vở gọn gàng.",
-        "Siraq simbūt cheq di gal gatŭq. → Sách vở xếp đúng chỗ.",
-        "Õh Nam đăng gěh siraq. Thầy-yáo an ŏh du lâm siraq. → Nam không có vở. Thầy cho em một cuốn."
-      ]
+      "vi": "sách, vở, chữ viết, giấy tờ"
     },
     {
       "jro": "simbūt",
-      "vi": "vở, tập, thư từ, sách vở",
-      "examples": [
-        "Siraq simbūt cheq di gal gatŭq. → Sách vở xếp đúng chỗ."
-      ]
+      "vi": "vở, tập, thư từ, sách vở"
     },
     {
       "jro": "bàng",
-      "vi": "bàn, bảng",
-      "examples": [
-        "Ganai ŏh Lạc de chêr phấn vlơ bàng. → Bạn Lạc vẽ phấn trên bàn.",
-        "Õh Lạc nhai bây ganai: \"Vơn phải jơ sên bàng cồ vơn học.\" → Lạc khuyên bạn: \"Ta nên giữ gìn bàn học.\"",
-        "Õh Ngắt bây ŏh Lạc tất kwận. Var ndu khây něh lăp u vi cồ lêng. Õh Lạc cơnh saq u vi canji cheq nhup cũm-kim. Õh Ngắt pâh ŏh bây nhai panh: \"Õh sên u bàng nõq tĩq, păch něh nhai?\" → [BẢNG: CẤM ĐI TRÊN BỒN CỎ]"
-      ]
+      "vi": "bàn, bảng"
     },
     {
       "jro": "gê",
-      "vi": "ghế, chỗ ngồi",
-      "examples": [
-        "Du mat wõq, nděh đò ndây tất. Nděh heq takiq tamuôi. Õh Ngắt bây ŏh Lạc hao nděh bây lăp sũng galăm. Ăp ndu gũq du lâm gê. → Lát sau, một chiếc xe đò khác tới. Xe nầy thưa khách. Hồng và Lạc lên xe bước vào trong. Mỗi em ngồi một ghế.",
-        "GaTrúc jut bàng gê. → Trúc lau bàn ghế."
-      ]
+      "vi": "ghế, chỗ ngồi"
     },
     {
       "jro": "lapông",
-      "vi": "cửa, cánh cửa, lối ra vào",
-      "examples": [
-        "Vap ôp sĩq vlâq lapông. → Ba sửa cánh cửa hư.",
-        "Nděh đò tất gatŭq cheq vu jur. Tamun mprăng nděh tangât may. Ăp lâm lapông nděh něh pơq. Ăp ndu saq jur a nděh. → Xe đò đã vào bến. Tài xế tắt máy. Các cửa xe đều mở. Mọi người lần lượt xuống xe."
-      ]
+      "vi": "cửa, cánh cửa, lối ra vào"
     },
     {
       "jro": "ding nhi",
-      "vi": "vách nhà, tường nhà",
-      "examples": [
-        "Õh Bĩnh chêr vlơ ding nhi. Khây ganai saq tất chẽq sên. → Bình vẽ lên tường. Các bạn xúm lại xem.",
-        "Õh Ngắt nhai: \"Vơn phải jơ ding nhi dijrõh. Ding nhi jrõh, noq nhi trương yah rom.\" → Hồng nói: \"Chúng ta giữ tường cho sạch. Tường có sạch, trường mới đẹp.\""
-      ]
+      "vi": "vách nhà, tường nhà"
     },
     {
       "jro": "thùng",
-      "vi": "thùng, giỏ chứa",
-      "examples": [
-        "Õh Lạc dônh pa-ar kẹo. Õh doq sũng thùng rác. → Lạc lượm giấy bọc kẹo. Em bỏ vào giỏ rác.",
-        "Saq nggô en, ŏh Lạc hwât pa-ar lăp sũng thùng. Něh troq daq lăp jrõh chẽq. Něh jơ nhi ratung ăch yăh jrõh. → Đi tiêu xong, Lạc bỏ giấy vào thùng. Em giội nước vào cầu. Em giữ nhà tiêu sạch.",
-        "Saq du vau trong, ŏh Lạc sây du mvu něh rung candoq lăp sũng thùng. Õh Lạc nhai bây pôp: \"Rung candoq sũng thùng canoq, nõq něh jrõh, gal đăng pôp?\" → Õh Ngắt âh: \"Gal ầm.\""
-      ]
+      "vi": "thùng, giỏ chứa"
     },
     {
       "jro": "candoq",
-      "vi": "rác, đồ bỏ, rác rưởi",
-      "examples": [
-        "Õh Bĩnh hwât candoq lăp sũng daq ntu. → Bình vứt rác vào giếng nước.",
-        "Õh Lạc nhai: \"Vâng hwât candoq lăp sũng daq. Vơn phải jơ daq ntu dijrõh.\" → Lạc nói: \"Đừng vứt rác vào giếng. Ta nên giữ nước giếng sạch.\"",
-        "Saq du vau trong, ŏh Lạc sây du mvu něh rung candoq lăp sũng thùng. Õh Lạc nhai bây pôp: \"Rung candoq sũng thùng canoq, nõq něh jrõh, gal đăng pôp?\" → Õh Ngắt âh: \"Gal ầm.\""
-      ]
+      "vi": "rác, đồ bỏ, rác rưởi"
     },
     {
       "jro": "nseng",
-      "vi": "khăn, tấm vải lau",
-      "examples": [
-        "Õh Lạc bây ganai lêng \"Nhup nseng\". → Lạc cùng bạn chơi \"cướp cờ\".",
-        "• Õh Ngắt ôp nseng disuh daq cheq jut bảng. Luh ŏh Ngắt đăng plong nseng cồ jut bảng lăp sũng ntu daq? → (Hồng giặt khăn lau bảng bằng ca múc nước, không nhúng trực tiếp vào bể giếng để tránh làm dơ nước giếng).",
-        "Õh Mai huch văt nseng muh. → Mai quên dùng khăn tay."
-      ]
+      "vi": "khăn, tấm vải lau"
     },
     {
       "jro": "simbong",
-      "vi": "xà bông, xà phòng",
-      "examples": [
-        "GaTrúc bây ŏh Mai rao ti a daq jrõh bây simbong. → (Trúc, Mai rửa tay bằng nước sạch và xà bông.)",
-        "Sa en piêng GaTrúc bây ŏh Mai văt saq rao a simbong bây jut a nseng. Nggan bây li jrõh lẽq. → (Dùng xong Trúc và Mai đem rửa bằng xà bông, lau bằng khăn. Bát và cốc đều sạch.)"
-      ]
+      "vi": "xà bông, xà phòng"
     },
     {
       "jro": "jrơu",
-      "vi": "thuốc, dược phẩm",
-      "examples": [
-        "Mê an ŏh Lạc huch jrơu. → Má cho Lạc uống thuốc.",
-        "• Jrơu cồ đuyh sêch → Thuốc đánh răng",
-        "Cơnh ntrach a ji côr, nõq vrõh jrơu D.D.T. → Muốn tránh bệnh tật nên xịt thuốc D.D.T."
-      ]
+      "vi": "thuốc, dược phẩm"
     },
     {
       "jro": "to",
-      "vi": "dao, con dao",
-      "examples": [
-        "GaTrúc nhup to cheq chit play cam. GaTrúc văt to diyah cheq ntrách chăch ti. → Trúc dùng dao cắt trái cam. Trúc cầm dao cẩn thận cho khỏi đứt tay.",
-        "Ôp en GaTrúc cheq prăp to sĩq vlâq. → Dùng xong, Trúc cất dao vào hộp."
-      ]
+      "vi": "dao, con dao"
     },
     {
       "jro": "kéo",
-      "vi": "kéo, cây kéo",
-      "examples": [
-        "Õh Mai nhup kéo chit pa-ar. → Mai dùng kéo cắt giấy."
-      ]
+      "vi": "kéo, cây kéo"
     },
     {
       "jro": "pa-ar",
-      "vi": "giấy, mảnh giấy",
-      "examples": [
-        "Ga Tư sa kẹo. Něh hwât pa-ar kẹo sũng lớp. → Trò Tư ăn kẹo. Em xả giấy bọc kẹo ra lớp.",
-        "Õh Lạc dônh pa-ar kẹo. Õh doq sũng thùng rác. → Lạc lượm giấy bọc kẹo. Em bỏ vào giỏ rác.",
-        "Saq nggô en, ŏh Lạc hwât pa-ar lăp sũng thùng. Něh troq daq lăp jrõh chẽq. Něh jơ nhi ratung ăch yăh jrõh. → Đi tiêu xong, Lạc bỏ giấy vào thùng. Em giội nước vào cầu. Em giữ nhà tiêu sạch."
-      ]
+      "vi": "giấy, mảnh giấy"
     },
     {
       "jro": "chổi",
-      "vi": "chổi quét",
-      "examples": [
-        "Mê bốih nhi. Mê nhũp chổi cồ jong tong. → Mẹ quét nhà. Mẹ dùng chổi cán dài."
-      ]
+      "vi": "chổi quét"
     },
     {
       "jro": "chhah lang",
@@ -554,12 +272,7 @@
     },
     {
       "jro": "nhi",
-      "vi": "nhà, nhà ở",
-      "examples": [
-        "Vap tatâm nhi. → Ba sửa mái nhà.",
-        "Nhi ŏh Lạc de gěh tamuôi. → Nhà Lạc có khách.",
-        "\"Ơ vap, nhi gěh tamuôi.\" → \"Thưa ba, có khách ạ!\""
-      ]
+      "vi": "nhà, nhà ở"
     },
     {
       "jro": "nhi trường",
@@ -567,147 +280,71 @@
     },
     {
       "jro": "nhi ratung ăch",
-      "vi": "nhà tiêu, nhà vệ sinh, cầu tiêu",
-      "examples": [
-        "Õh Ngắt nhai bây ŏh Lạc: \"Nhi ratung ăch sindặc noq. Õh lăp sũng nõq cheq saq nggô, saq nôm.\" → Hồng bảo Lạc: \"Nhà tiêu sẵn đó. Em hãy vào trong mà tiêu, tiểu.\"",
-        "Saq nggô en, ŏh Lạc hwât pa-ar lăp sũng thùng. Něh troq daq lăp jrõh chẽq. Něh jơ nhi ratung ăch yăh jrõh. → Đi tiêu xong, Lạc bỏ giấy vào thùng. Em giội nước vào cầu. Em giữ nhà tiêu sạch.",
-        "Nhi ratung ăch heq me ôp. → Một nhà tiêu mới xây."
-      ]
+      "vi": "nhà tiêu, nhà vệ sinh, cầu tiêu"
     },
     {
       "jro": "palây",
-      "vi": "làng, buôn, bản, quê",
-      "examples": [
-        "Õh Ngắt bây ŏh Lạc mơch palây yông de. Õh Lạc nhai: \"Vrêq vơn găn maq toq trong vớn pôp!\" → Hồng và Lạc gần tới làng của dì. Lạc nói: \"Mình qua đường đi chị.\"",
-        "Avôq palây gěh nhi trương. → Đầu làng có trường Tiểu học.",
-        "Palây vơn jrõh bây rom. → Làng ta sạch và đẹp."
-      ]
+      "vi": "làng, buôn, bản, quê"
     },
     {
       "jro": "kwận",
-      "vi": "quận, huyện, thị trấn, quận lỵ",
-      "examples": [
-        "Õh Ngắt bây ŏh Lạc tất kwận. Var ndu khây něh lăp u vi cồ lêng. Õh Lạc cơnh saq u vi canji cheq nhup cũm-kim. Õh Ngắt pâh ŏh bây nhai panh: \"Õh sên u bàng nõq tĩq, păch něh nhai?\" → [BẢNG: CẤM ĐI TRÊN BỒN CỎ]"
-      ]
+      "vi": "quận, huyện, thị trấn, quận lỵ"
     },
     {
       "jro": "trong",
-      "vi": "đường, lối đi, đường sá",
-      "examples": [
-        "\"Khây con vâng sa bănh cồ tăch bây trong.\" → \"Các con đừng ăn bánh bán dọc đường.\"",
-        "Var ndu khây něh saq găn ntrach trong măq. Var ndu khây něh saq du maq trong a maq ma. → Hai em sang qua đường cái. Hai em đi sát lề đường bên phải.",
-        "Õh Ngắt bây ŏh Lạc vlam du mintan con se tăm-nchoq. Du mvu chhưl dip tamun cồ saq u trong. → Hồng và Lạc gặp một bọn trẻ đang rượt nhau. Một đứa xô vào một người đi đường."
-      ]
+      "vi": "đường, lối đi, đường sá"
     },
     {
       "jro": "maq trong",
-      "vi": "lề đường, hè phố, mé đường",
-      "examples": [
-        "Var ndu khây něh saq găn ntrach trong măq. Var ndu khây něh saq du maq trong a maq ma. → Hai em sang qua đường cái. Hai em đi sát lề đường bên phải.",
-        "GaTrúc bây ŏh Mai saq a maq trong. → Trúc và Mai đi trên lề đường.",
-        "Lũh trong, saq a maq trong, → Cảnh-Sát cồ nhâng ganai vơn de."
-      ]
+      "vi": "lề đường, hè phố, mé đường"
     },
     {
       "jro": "daq ntu",
-      "vi": "giếng nước, hồ giếng",
-      "examples": [
-        "Õh Bĩnh hwât candoq lăp sũng daq ntu. → Bình vứt rác vào giếng nước.",
-        "Õh Lạc nhai: \"Vâng hwât candoq lăp sũng daq. Vơn phải jơ daq ntu dijrõh.\" → Lạc nói: \"Đừng vứt rác vào giếng. Ta nên giữ nước giếng sạch.\"",
-        "Daq ntu cồ daq huch, → Gěh gâm khlŭh bay jrõh."
-      ]
+      "vi": "giếng nước, hồ giếng"
     },
     {
       "jro": "tanlô",
-      "vi": "ao, hồ, vũng nước tự nhiên",
-      "examples": [
-        "Daq tanlô sâq, huch đăng gěh. → Nước ao bẩn, không uống được.",
-        "Daq tanlô něh sâq lũng, → Něh ôp an vơn ji.",
-        "GaTrúc bây ŏh Mai khoi saq du ngai: a trong nděh ũnh (đường rầy), daq tanlô (hồ ao), a trong nděh saq (xa-lộ). → Vơn wõng vi cồ yăh nõq vơn lêng. (Chúng ta chọn nơi an toàn mà chơi.)"
-      ]
+      "vi": "ao, hồ, vũng nước tự nhiên"
     },
     {
       "jro": "rông",
-      "vi": "vườn, rẫy, khu đất trồng",
-      "examples": [
-        "Alưr nhi gěh rông tơm play chhơ. → Sau nhà có vườn cây trái.",
-        "Vơn saq lêng sũng rông play, → Ngai daq cồ jru, ngai trong gõq nděh."
-      ]
+      "vi": "vườn, rẫy, khu đất trồng"
     },
     {
       "jro": "talong",
-      "vi": "hàng rào, dậu",
-      "examples": [
-        "- Vap tatâm talong (Ba rào lại hàng rào tre). → Mê ôp păch lây? (Má làm gì?)",
-        "Play bănh lũh ntrach a talong. Õh Ngắt đăng an ŏh Lạc waq talong cheq lũh. → Quả banh lọt ra ngoài rào. Hồng không cho Lạc vạch rào chui ra.",
-        "Vi lêng heq yăh jrõh bây la-ât. Rawênh gěh tơm chhơ bây gěh talong. → Vườn chơi này sạch và mát, chung quanh có cây và hàng rào."
-      ]
+      "vi": "hàng rào, dậu"
     },
     {
       "jro": "vi",
-      "vi": "chỗ, nơi, khoảng đất",
-      "examples": [
-        "Vlam vi candoq, Ngắt pađau gâm nhai bây ŏh panh: \"Nhi heq rung candoq u trong, sâq lũng.\" → Gặp đống rác, Hồng chỉ tay và nói với em: \"Nhà nầy đổ rác ra đường, dơ quá.\"",
-        "Õh Ngắt nhai: \"Tao yaq u vi nõq đê phũng lũng.\" → Chiếc xe đò ngừng lại. Lạc giục chị lên xe. Hồng bảo: \"Xe chật, đâu còn chỗ.\"",
-        "Õh Ngắt bây ŏh Lạc tất kwận. Var ndu khây něh lăp u vi cồ lêng. Õh Lạc cơnh saq u vi canji cheq nhup cũm-kim. Õh Ngắt pâh ŏh bây nhai panh: \"Õh sên u bàng nõq tĩq, păch něh nhai?\" → [BẢNG: CẤM ĐI TRÊN BỒN CỎ]"
-      ]
+      "vi": "chỗ, nơi, khoảng đất"
     },
     {
       "jro": "gatŭq",
-      "vi": "chỗ, nơi, cảnh trí, địa điểm",
-      "examples": [
-        "Siraq simbūt cheq di gal gatŭq. → Sách vở xếp đúng chỗ.",
-        "Nděh heq đăng gõq tamuôi. Õh Ngắt bây ŏh Lạc hao nděh. Ăp ndu gũq du gatŭq sũng nděh. Nděh mprăng yăh bây trong. → Chuyến xe nầy không đông khách. Hồng và Lạc lên xe. Mỗi người ngồi một chỗ. Xe chạy trên đường êm thấm.",
-        "Nděh đò něh pâh sĩq vlâq. Õh Lạc siêr pôp hao nděh. Õh Ngắt nhai: \"Nděh hặt en, đăng hồm gatŭq.\" → Õh Lạc nhai: \"Vơn tao yaq u gung cồ jot hao jur nõq khoi gěh.\""
-      ]
+      "vi": "chỗ, nơi, cảnh trí, địa điểm"
     },
     {
       "jro": "piêng",
-      "vi": "cơm, bữa cơm",
-      "examples": [
-        "Õh Lạc siêm ŏh sa piêng. → Lạc cho em ăn.",
-        "Khây ŏh cơnh sa piêng, ca, pai canji, chăp... bây huch daq gěh gâm khlŭh. → Các em cần ăn cơm, cá, rau, trứng... và uống nước đun sôi, lọc kỹ.",
-        "• Rao ti, tu mặt lor a sa piêng. → (Rửa tay, rửa mặt trước khi ăn.)"
-      ]
+      "vi": "cơm, bữa cơm"
     },
     {
       "jro": "phe",
-      "vi": "gạo",
-      "examples": [
-        "Mê arung phe. → Má sảy gạo."
-      ]
+      "vi": "gạo"
     },
     {
       "jro": "por",
-      "vi": "cháo",
-      "examples": [
-        "Õh Mai krêng sa piêng. Něh sa por. → Mai kiêng cơm. Mai ăn cháo."
-      ]
+      "vi": "cháo"
     },
     {
       "jro": "ca",
-      "vi": "cá",
-      "examples": [
-        "Khây ŏh cơnh sa piêng, ca, pai canji, chăp... bây huch daq gěh gâm khlŭh. → Các em cần ăn cơm, cá, rau, trứng... và uống nước đun sôi, lọc kỹ.",
-        "GaTrúc cơnh sa ayh ca. → Trúc chỉ thích ăn cá.",
-        "Mê ôp ca. Mê rao ca dijrõh. → Mẹ làm cá. Mẹ rửa cá thật sạch."
-      ]
+      "vi": "cá"
     },
     {
       "jro": "gong",
-      "vi": "thịt",
-      "examples": [
-        "Õh Mai cơnh sa ayh gong. → Mai chỉ ưa ăn thịt."
-      ]
+      "vi": "thịt"
     },
     {
       "jro": "pai",
-      "vi": "rau",
-      "examples": [
-        "Khây ŏh cơnh sa piêng, ca, pai canji, chăp... bây huch daq gěh gâm khlŭh. → Các em cần ăn cơm, cá, rau, trứng... và uống nước đun sôi, lọc kỹ.",
-        "Õh Mai sach pai bây hwât la cồ jrùng sa, nggâm ro. → Mai nhặt rau, bỏ lá sâu, lá úa.",
-        "GaTrúc rao pai diyah a daq cồ jrõh. → Trúc rửa kỹ rau bằng nước sạch."
-      ]
+      "vi": "rau"
     },
     {
       "jro": "chap",
@@ -715,26 +352,15 @@
     },
     {
       "jro": "play",
-      "vi": "trái cây, quả, bóng",
-      "examples": [
-        "Play bănh lũh ntrach a talong. Õh Ngắt đăng an ŏh Lạc waq talong cheq lũh. → Quả banh lọt ra ngoài rào. Hồng không cho Lạc vạch rào chui ra.",
-        "Khây ŏh ndây lêng play bănh. → Các em khác chuyền banh.",
-        "Õh Mai sa play pa-oq gõq lũng. Õh Mai ji candul, něh gũq grô candul bây nhim. → (Mai ăn nhiều xoài quá. Mai đau bụng, ngồi ôm bụng khóc.)"
-      ]
+      "vi": "trái cây, quả, bóng"
     },
     {
       "jro": "play cam",
-      "vi": "trái cam",
-      "examples": [
-        "GaTrúc nhup to cheq chit play cam. GaTrúc văt to diyah cheq ntrách chăch ti. → Trúc dùng dao cắt trái cam. Trúc cầm dao cẩn thận cho khỏi đứt tay."
-      ]
+      "vi": "trái cam"
     },
     {
       "jro": "play pa-oq",
-      "vi": "trái xoài",
-      "examples": [
-        "Õh Mai sa play pa-oq gõq lũng. Õh Mai ji candul, něh gũq grô candul bây nhim. → (Mai ăn nhiều xoài quá. Mai đau bụng, ngồi ôm bụng khóc.)"
-      ]
+      "vi": "trái xoài"
     },
     {
       "jro": "prit",
@@ -742,177 +368,87 @@
     },
     {
       "jro": "bănh",
-      "vi": "bánh, bánh ngọt",
-      "examples": [
-        "\"Khây con vâng sa bănh cồ tăch bây trong.\" → \"Các con đừng ăn bánh bán dọc đường.\"",
-        "\"Bănh heq pa-am lũng!\" → \"Bánh nầy ngon lắm!\"",
-        "Play bănh lũh ntrach a talong. Õh Ngắt đăng an ŏh Lạc waq talong cheq lũh. → Quả banh lọt ra ngoài rào. Hồng không cho Lạc vạch rào chui ra."
-      ]
+      "vi": "bánh, bánh ngọt"
     },
     {
       "jro": "kẹo",
-      "vi": "kẹo",
-      "examples": [
-        "Ga Tư sa kẹo. Něh hwât pa-ar kẹo sũng lớp. → Trò Tư ăn kẹo. Em xả giấy bọc kẹo ra lớp.",
-        "Õh Lạc dônh pa-ar kẹo. Õh doq sũng thùng rác. → Lạc lượm giấy bọc kẹo. Em bỏ vào giỏ rác.",
-        "Sa kẹo gõq něh ji sêch. → Ăn nhiều kẹo hại răng."
-      ]
+      "vi": "kẹo"
     },
     {
       "jro": "mreq",
-      "vi": "ớt, trái ớt",
-      "examples": [
-        "Ôp gõq mreq něh hơr lũng. → Nhiều ớt cay quá!"
-      ]
+      "vi": "ớt, trái ớt"
     },
     {
       "jro": "vŏh",
-      "vi": "muối, muối ăn",
-      "examples": [
-        "• Vŏh → Muối"
-      ]
+      "vi": "muối, muối ăn"
     },
     {
       "jro": "daq măm",
-      "vi": "nước mắm",
-      "examples": [
-        "Daq măm ntiêt lũng, ơ. Con tuh du dệt en. → Nước mắm mặn lắm đấy! Con rót một chút thôi."
-      ]
+      "vi": "nước mắm"
     },
     {
       "jro": "daq",
-      "vi": "nước",
-      "examples": [
-        "Õh Ngắt dợp li daq an un iưn. → Hồng đưa bầu nước uống cho bà.",
-        "Õh Lạc lũh tu ling cheq vrăch daq ju. → Lạc ho.",
-        "Õh Bĩnh hwât candoq lăp sũng daq ntu. → Bình vứt rác vào giếng nước."
-      ]
+      "vi": "nước"
     },
     {
       "jro": "tơm chhơ",
-      "vi": "cây, thân cây, vườn cây",
-      "examples": [
-        "Õh Ngắt bây ŏh Lạc troq tơm chhơ bây vap. → Hồng và Lạc cùng tưới cây với cha.",
-        "Gõq nhi gěh tơm chhơ. → Nhiều nhà có vườn cây.",
-        "Vi lêng heq yăh jrõh bây la-ât. Rawênh gěh tơm chhơ bây gěh talong. → Vườn chơi này sạch và mát, chung quanh có cây và hàng rào."
-      ]
+      "vi": "cây, thân cây, vườn cây"
     },
     {
       "jro": "ncao",
-      "vi": "hoa, bông hoa",
-      "examples": [
-        "Õh Ngắt pâh ŏh Lạc: \"Õh vâng pĩq ncao. Gěh ncao năq trương vơn de něh yăh rom.\" → Hồng ngăn Lạc: \"Em không nên hái hoa. Nhờ có hoa, trường ta thêm đẹp.\"",
-        "Õh Mai doq ncao. Bình ncao rom lũng. → Mai cắm hoa. Bình hoa đẹp quá!"
-      ]
+      "vi": "hoa, bông hoa"
     },
     {
       "jro": "canji",
-      "vi": "cỏ, thảm cỏ, bồn cỏ",
-      "examples": [
-        "Õh Ngắt bây ŏh Lạc tất kwận. Var ndu khây něh lăp u vi cồ lêng. Õh Lạc cơnh saq u vi canji cheq nhup cũm-kim. Õh Ngắt pâh ŏh bây nhai panh: \"Õh sên u bàng nõq tĩq, păch něh nhai?\" → [BẢNG: CẤM ĐI TRÊN BỒN CỎ]",
-        "Khây ŏh cơnh sa piêng, ca, pai canji, chăp... bây huch daq gěh gâm khlŭh. → Các em cần ăn cơm, cá, rau, trứng... và uống nước đun sôi, lọc kỹ."
-      ]
+      "vi": "cỏ, thảm cỏ, bồn cỏ"
     },
     {
       "jro": "gapu",
-      "vi": "con trâu",
-      "examples": [
-        "Gapu viq võq. → Trâu đầm / nằm vũng.",
-        "Tamun bây bo gapu gũq lu. → Người và vật đều nghỉ."
-      ]
+      "vi": "con trâu"
     },
     {
       "jro": "so",
-      "vi": "con chó",
-      "examples": [
-        "Hình ảnh so sánh tư thế đúng và sai: → 1. Mút ngón tay / Cắn móng tay (Sai) vs Ngồi đọc sách ngay ngắn (Đúng)",
-        "So vĩq mơch jâng GaTrúc de. → Con Mực nằm ngủ gần chân Trúc.",
-        "GaTrúc uěh đức tiêng meo. GaTrúc uěh văt chhơ pâm so. → Trúc thường kéo đuôi con Miu. Trúc hay cầm que đánh chó."
-      ]
+      "vi": "con chó"
     },
     {
       "jro": "meo",
-      "vi": "con mèo (con miu)",
-      "examples": [
-        "Ơ Mai! Vâng đức tiêng meo. → Mai ơi! Đừng kéo đuôi mèo.",
-        "GaTrúc uěh đức tiêng meo. GaTrúc uěh văt chhơ pâm so. → Trúc thường kéo đuôi con Miu. Trúc hay cầm que đánh chó.",
-        "Õh Mai něh lêng yăh bây meo. Meo khoi lêng yăh bây ŏh Mai. → Mai thường vuốt ve con Miu. Con Miu mến Mai lắm."
-      ]
+      "vi": "con mèo (con miu)"
     },
     {
       "jro": "cũm-kim",
-      "vi": "con bướm",
-      "examples": [
-        "Õh Ngắt bây ŏh Lạc tất kwận. Var ndu khây něh lăp u vi cồ lêng. Õh Lạc cơnh saq u vi canji cheq nhup cũm-kim. Õh Ngắt pâh ŏh bây nhai panh: \"Õh sên u bàng nõq tĩq, păch něh nhai?\" → [BẢNG: CẤM ĐI TRÊN BỒN CỎ]"
-      ]
+      "vi": "con bướm"
     },
     {
       "jro": "rawây",
-      "vi": "con ruồi",
-      "examples": [
-        "Đăng cheq rawây lăp sũng păch sa. Nhup păch lây dê tang tâq păch sa. → (Không để ruồi đậu vào thức ăn. Dùng lồng bàn đậy thức ăn.)",
-        "Rawây, moih, cane uěh rih u vi heq. → Ruồi, muỗi, chuột ưa sống nơi đây.",
-        "Rawây, moih, cane dợp gõq sinlơ ji an vơn iưn. → Ruồi, muỗi, chuột truyền nhiều bệnh cho ta."
-      ]
+      "vi": "con ruồi"
     },
     {
       "jro": "moih",
-      "vi": "con muỗi",
-      "examples": [
-        "Moih cắp jâng ŏh Mai de. → Muỗi đốt chân Mai.",
-        "GaTrúc tap moih. → Trúc đập muỗi.",
-        "Mê dah moih. → Mẹ xua muỗi."
-      ]
+      "vi": "con muỗi"
     },
     {
       "jro": "cane",
-      "vi": "con chuột",
-      "examples": [
-        "Rawây, moih, cane uěh rih u vi heq. → Ruồi, muỗi, chuột ưa sống nơi đây.",
-        "Rawây, moih, cane dợp gõq sinlơ ji an vơn iưn. → Ruồi, muỗi, chuột truyền nhiều bệnh cho ta."
-      ]
+      "vi": "con chuột"
     },
     {
       "jro": "da",
-      "vi": "con vịt",
-      "examples": [
-        "4. Gãi ngứa làm xước da → Sai) vs Rửa ráy sạch sẽ (Đúng",
-        "Da re daq. → Vịt tắm."
-      ]
+      "vi": "con vịt"
     },
     {
       "jro": "nděh",
-      "vi": "xe, xe cộ",
-      "examples": [
-        "Du mvu ndây mprăng lũh vlac candal trong. Du tong nděh jot něh saq tất. Bây něh pâh (thắng) dăn. Noq con se noq něh ntrach ji. → Đứa khác chạy ra giữa đường. Một chiếc xe đạp trờ tới. Xe thắng kịp. Đứa bé thoát khỏi tai nạn.",
-        "Nděh heq đăng gõq tamuôi. Õh Ngắt bây ŏh Lạc hao nděh. Ăp ndu gũq du gatŭq sũng nděh. Nděh mprăng yăh bây trong. → Chuyến xe nầy không đông khách. Hồng và Lạc lên xe. Mỗi người ngồi một chỗ. Xe chạy trên đường êm thấm.",
-        "Du tong nděh lam mơch mprăng. Õh Lạc cơnh hao. Õh Ngắt pâh ŏh sĩq vlâq bây nhai: \"Nděh vênh èn. Vơn cấp nděh alưr wõq.\" → Một chiếc xe lam sắp chạy. Lạc toan bước lên xe. Hồng giữ em lại và nói: \"Xe đã đầy. Ta nên đợi chuyến sau.\""
-      ]
+      "vi": "xe, xe cộ"
     },
     {
       "jro": "nděh đò",
-      "vi": "xe đò, xe khách",
-      "examples": [
-        "Nděh đò něh pâh sĩq vlâq. Õh Lạc siêr pôp hao nděh. Õh Ngắt nhai: \"Nděh hặt en, đăng hồm gatŭq.\" → Õh Lạc nhai: \"Vơn tao yaq u gung cồ jot hao jur nõq khoi gěh.\"",
-        "Du mat wõq, nděh đò ndây tất. Nděh heq takiq tamuôi. Õh Ngắt bây ŏh Lạc hao nděh bây lăp sũng galăm. Ăp ndu gũq du lâm gê. → Lát sau, một chiếc xe đò khác tới. Xe nầy thưa khách. Hồng và Lạc lên xe bước vào trong. Mỗi em ngồi một ghế.",
-        "Nděh đò tất gatŭq cheq vu jur. Tamun mprăng nděh tangât may. Ăp lâm lapông nděh něh pơq. Ăp ndu saq jur a nděh. → Xe đò đã vào bến. Tài xế tắt máy. Các cửa xe đều mở. Mọi người lần lượt xuống xe."
-      ]
+      "vi": "xe đò, xe khách"
     },
     {
       "jro": "nděh lam",
-      "vi": "xe lam (xe ba bánh chở khách)",
-      "examples": [
-        "Du tong nděh lam mơch mprăng. Õh Lạc cơnh hao. Õh Ngắt pâh ŏh sĩq vlâq bây nhai: \"Nděh vênh èn. Vơn cấp nděh alưr wõq.\" → Một chiếc xe lam sắp chạy. Lạc toan bước lên xe. Hồng giữ em lại và nói: \"Xe đã đầy. Ta nên đợi chuyến sau.\"",
-        "• Nděh lam něh [vênh] tamuôi. Õh Ngắt bây ŏh Lạc cấp nděh ndây. → (Xe lam đã [đầy] khách, Hồng và Lạc đứng chờ chuyến khác)."
-      ]
+      "vi": "xe lam (xe ba bánh chở khách)"
     },
     {
       "jro": "nděh jot",
-      "vi": "xe đạp",
-      "examples": [
-        "Du mvu ndây mprăng lũh vlac candal trong. Du tong nděh jot něh saq tất. Bây něh pâh (thắng) dăn. Noq con se noq něh ntrach ji. → Đứa khác chạy ra giữa đường. Một chiếc xe đạp trờ tới. Xe thắng kịp. Đứa bé thoát khỏi tai nạn.",
-        "Lêng vi heq đăng phùng nděh jot. → Chơi trong vườn không bị xe cán."
-      ]
+      "vi": "xe đạp"
     },
     {
       "jro": "nděh unh",
@@ -924,147 +460,67 @@
     },
     {
       "jro": "sa",
-      "vi": "ăn, dùng bữa",
-      "examples": [
-        "\"Khây con vâng sa bănh cồ tăch bây trong.\" → \"Các con đừng ăn bánh bán dọc đường.\"",
-        "\"May mo, anh đăng sa.\" → \"Cám ơn, tôi không ăn.\"",
-        "Õh Lạc siêm ŏh sa piêng. → Lạc cho em ăn."
-      ]
+      "vi": "ăn, dùng bữa"
     },
     {
       "jro": "huch",
-      "vi": "uống",
-      "examples": [
-        "Mê an ŏh Lạc huch jrơu. → Má cho Lạc uống thuốc.",
-        "Õh Mai huch văt nseng muh. → Mai quên dùng khăn tay.",
-        "GaTrúc khoi huch văt nseng muh. → Trúc quên dùng khăn tay."
-      ]
+      "vi": "uống"
     },
     {
       "jro": "vĩq",
-      "vi": "ngủ, nằm ngủ",
-      "examples": [
-        "So vĩq mơch jâng GaTrúc de. → Con Mực nằm ngủ gần chân Trúc.",
-        "Õh Mai vĩq yăh lốc. → (Mai ngủ ngon-lành.)",
-        "Nặc năng en GaTrúc hôm ndoh saq viq. GaTrúc vĩq mơch năr tamvôp. Něh phlâq vĩq tanâm măq. → Trúc thức khuya. Trúc ngủ bù buổi trưa, nằm thở dốc."
-      ]
+      "vi": "ngủ, nằm ngủ"
     },
     {
       "jro": "căh",
-      "vi": "dậy, thức dậy",
-      "examples": [
-        "GaTrúc bây Mai căh amoq. → Trúc và Mai dậy sớm.",
-        "Khây ŏh căh tôr: → (Các em nhớ:)",
-        "Õh Mai viq lor. Õh Mai căh lor. → Mai ngủ sớm. Mai dậy sớm."
-      ]
+      "vi": "dậy, thức dậy"
     },
     {
       "jro": "lu",
-      "vi": "nghỉ, nghỉ ngơi",
-      "examples": [
-        "Tamun bây bo gapu gũq lu. → Người và vật đều nghỉ.",
-        "Năr tamvôp ŏh Mai viq lu. → Buổi trưa, Mai nằm ngủ.",
-        "Õh lu lâh canoq caheq? → (Em nghỉ ngơi thế nào?)"
-      ]
+      "vi": "nghỉ, nghỉ ngơi"
     },
     {
       "jro": "saq",
-      "vi": "đi, bước đi",
-      "examples": [
-        "\"Con saq cuôl vap sĩq roc tamuôi.\" → \"Con mời ba về tiếp khách.\"",
-        "\"Saq cuôl pôp Ngắt sĩq mê cơnh!\" → \"Đi gọi Hồng về cho má!\"",
-        "Thầy-yáo ji. Õh Lạc bây ganai saq mơq Thầy-yáo. → Thầy đau. Lạc và các bạn đến thăm thầy."
-      ]
+      "vi": "đi, bước đi"
     },
     {
       "jro": "tất",
-      "vi": "đến, tới, cập bến",
-      "examples": [
-        "Õh Bĩnh chêr vlơ ding nhi. Khây ganai saq tất chẽq sên. → Bình vẽ lên tường. Các bạn xúm lại xem.",
-        "Du mvu ndây mprăng lũh vlac candal trong. Du tong nděh jot něh saq tất. Bây něh pâh (thắng) dăn. Noq con se noq něh ntrach ji. → Đứa khác chạy ra giữa đường. Một chiếc xe đạp trờ tới. Xe thắng kịp. Đứa bé thoát khỏi tai nạn.",
-        "Du mat wõq, nděh đò ndây tất. Nděh heq takiq tamuôi. Õh Ngắt bây ŏh Lạc hao nděh bây lăp sũng galăm. Ăp ndu gũq du lâm gê. → Lát sau, một chiếc xe đò khác tới. Xe nầy thưa khách. Hồng và Lạc lên xe bước vào trong. Mỗi em ngồi một ghế."
-      ]
+      "vi": "đến, tới, cập bến"
     },
     {
       "jro": "lăp",
-      "vi": "vào, bước vào, đổ vào",
-      "examples": [
-        "Õh Bĩnh hwât candoq lăp sũng daq ntu. → Bình vứt rác vào giếng nước.",
-        "Õh Lạc nhai: \"Vâng hwât candoq lăp sũng daq. Vơn phải jơ daq ntu dijrõh.\" → Lạc nói: \"Đừng vứt rác vào giếng. Ta nên giữ nước giếng sạch.\"",
-        "Õh Ngắt nhai bây ŏh Lạc: \"Nhi ratung ăch sindặc noq. Õh lăp sũng nõq cheq saq nggô, saq nôm.\" → Hồng bảo Lạc: \"Nhà tiêu sẵn đó. Em hãy vào trong mà tiêu, tiểu.\""
-      ]
+      "vi": "vào, bước vào, đổ vào"
     },
     {
       "jro": "lũh",
-      "vi": "ra, ra ngoài, xuất hiện",
-      "examples": [
-        "Õh Lạc lũh tu ling cheq vrăch daq ju. → Lạc ho.",
-        "Play bănh lũh ntrach a talong. Õh Ngắt đăng an ŏh Lạc waq talong cheq lũh. → Quả banh lọt ra ngoài rào. Hồng không cho Lạc vạch rào chui ra.",
-        "Yông Pe ji. Õh Ngắt bây ŏh Lạc saq mơq yông. Var ndu khây něh lũh ntrach a nhi. → Dì Ba đau. Hồng và Lạc đi thăm dì. Hai em ra khỏi nhà."
-      ]
+      "vi": "ra, ra ngoài, xuất hiện"
     },
     {
       "jro": "hao",
-      "vi": "lên, bước lên, trèo lên",
-      "examples": [
-        "\"Lạc, an Nam hao du dệt vòh.\" → \"Lạc cho Nam đu một lát đi!\"",
-        "Nděh heq đăng gõq tamuôi. Õh Ngắt bây ŏh Lạc hao nděh. Ăp ndu gũq du gatŭq sũng nděh. Nděh mprăng yăh bây trong. → Chuyến xe nầy không đông khách. Hồng và Lạc lên xe. Mỗi người ngồi một chỗ. Xe chạy trên đường êm thấm.",
-        "Du tong nděh lam mơch mprăng. Õh Lạc cơnh hao. Õh Ngắt pâh ŏh sĩq vlâq bây nhai: \"Nděh vênh èn. Vơn cấp nděh alưr wõq.\" → Một chiếc xe lam sắp chạy. Lạc toan bước lên xe. Hồng giữ em lại và nói: \"Xe đã đầy. Ta nên đợi chuyến sau.\""
-      ]
+      "vi": "lên, bước lên, trèo lên"
     },
     {
       "jro": "jur",
-      "vi": "xuống, bước xuống",
-      "examples": [
-        "Nděh đò tất gatŭq cheq vu jur. Tamun mprăng nděh tangât may. Ăp lâm lapông nděh něh pơq. Ăp ndu saq jur a nděh. → Xe đò đã vào bến. Tài xế tắt máy. Các cửa xe đều mở. Mọi người lần lượt xuống xe.",
-        "Nděh mơch gũq sĩq vlâq. Du mvu něh tamtroh jur. Něh tachrơng jâng bây vông joch. → Xe từ từ vào bến. Một người vội vã nhảy xuống. Anh trượt chân, té sấp.",
-        "• Lăm nděh hôm ndoh pâh sĩq vlâq, vơn vâng [jur ha hao]. → (Khi xe chưa ngừng hẳn, ta chớ [nhảy xuống hoặc bước lên])."
-      ]
+      "vi": "xuống, bước xuống"
     },
     {
       "jro": "găn",
-      "vi": "qua, băng qua, vượt qua",
-      "examples": [
-        "Var ndu khây něh saq găn ntrach trong măq. Var ndu khây něh saq du maq trong a maq ma. → Hai em sang qua đường cái. Hai em đi sát lề đường bên phải.",
-        "Õh Ngắt bây ŏh Lạc mơch palây yông de. Õh Lạc nhai: \"Vrêq vơn găn maq toq trong vớn pôp!\" → Hồng và Lạc gần tới làng của dì. Lạc nói: \"Mình qua đường đi chị.\"",
-        "Õh Ngắt nhai: \"Cơnh saq găn trong phải deng vôq deng lur.\" → Hồng đáp: \"Qua đường phải nhìn trước, ngó sau.\""
-      ]
+      "vi": "qua, băng qua, vượt qua"
     },
     {
       "jro": "tu",
-      "vi": "rửa (mặt), lau chùi",
-      "examples": [
-        "Tu mặt ayh. → Rửa mặt lấy.",
-        "Õh Lạc lũh tu ling cheq vrăch daq ju. → Lạc ho.",
-        "Nděh mprăng u trong. Õh Lạc ntõng ti lũh pađau khây păch cồ rom. Ngắt đức ti ŏh de bây nhai: \"Lăm gũq sũng nděh, vâng ntõng ti lũh tu ling.\" → Xe chạy bon-bon trên đường. Lạc thò tay ra ngoài chỉ trỏ cảnh vật. Hồng vội kéo tay em vào và bảo: \"Khi đi xe, không nên thò tay ra ngoài.\""
-      ]
+      "vi": "rửa (mặt), lau chùi"
     },
     {
       "jro": "rao",
-      "vi": "rửa (tay, chân, rau, chén bát)",
-      "examples": [
-        "Õh Ngắt rao ti an ŏh iưn. → Hồng rửa tay cho em.",
-        "Õh Mai rao ti. → Mai rửa tay.",
-        "GaTrúc bây ŏh Mai rao ti a daq jrõh bây simbong. → (Trúc, Mai rửa tay bằng nước sạch và xà bông.)"
-      ]
+      "vi": "rửa (tay, chân, rau, chén bát)"
     },
     {
       "jro": "ũm",
-      "vi": "tắm, tắm gội",
-      "examples": [
-        "GaTrúc ũm. → Trúc tắm.",
-        "Ũm en GaTrúc chuq ao mphla yăh jrõh. → (Tắm xong, Trúc thay quần áo sạch.)",
-        "GaTrúc ũm. → Trúc tắm."
-      ]
+      "vi": "tắm, tắm gội"
     },
     {
       "jro": "pih",
-      "vi": "gội (đầu), giặt (quần áo)",
-      "examples": [
-        "Mê pih ao mphla. → Má giặt quần áo.",
-        "Mê pih vôq an ŏh Mai iưn. → (Mẹ gội đầu cho Mai.)",
-        "Mê pih ao mphla an GaTrúc iưn. → (Mẹ giặt quần áo cho Trúc.)"
-      ]
+      "vi": "gội (đầu), giặt (quần áo)"
     },
     {
       "jro": "duyh",
@@ -1072,203 +528,99 @@
     },
     {
       "jro": "saih",
-      "vi": "chải (đầu/tóc)",
-      "examples": [
-        "Saih sõq ayh. → Chải đầu lấy.",
-        "Õh Mai saih sõq. → Mai chải đầu.",
-        "Sõq var ndu de saih dê dông. → (Tóc hai em chải gọn.)"
-      ]
+      "vi": "chải (đầu/tóc)"
     },
     {
       "jro": "gâl",
-      "vi": "thay, đổi, hoán đổi",
-      "examples": [
-        "Gâl ao mphla ndây bây chuq yep ayh. → Thay quần áo và mang dép lấy.",
-        "Phải tăm-gâl păch sa, canoq dê camhlăng bây yăh pa-ăm. → (Cần thay đổi đồ ăn, như thế mới ngon và bổ.)"
-      ]
+      "vi": "thay, đổi, hoán đổi"
     },
     {
       "jro": "chuq",
-      "vi": "mang, xỏ, mặc vào",
-      "examples": [
-        "Gâl ao mphla ndây bây chuq yep ayh. → Thay quần áo và mang dép lấy.",
-        "Ũm en GaTrúc chuq ao mphla yăh jrõh. → (Tắm xong, Trúc thay quần áo sạch.)"
-      ]
+      "vi": "mang, xỏ, mặc vào"
     },
     {
       "jro": "taklôn",
-      "vi": "xếp, dọn, gấp lại, móc lên",
-      "examples": [
-        "Taklôn mùng, su, vêl bây ao mphla. → Xếp đặt mùng, mền, chiếu và quần áo."
-      ]
+      "vi": "xếp, dọn, gấp lại, móc lên"
     },
     {
       "jro": "chẽq",
-      "vi": "xếp, đặt, để, sắp",
-      "examples": [
-        "Chẽq siraq yah đắp nđắp. → Xếp sách vở gọn gàng.",
-        "Õh Bĩnh chêr vlơ ding nhi. Khây ganai saq tất chẽq sên. → Bình vẽ lên tường. Các bạn xúm lại xem.",
-        "Saq nggô en, ŏh Lạc hwât pa-ar lăp sũng thùng. Něh troq daq lăp jrõh chẽq. Něh jơ nhi ratung ăch yăh jrõh. → Đi tiêu xong, Lạc bỏ giấy vào thùng. Em giội nước vào cầu. Em giữ nhà tiêu sạch."
-      ]
+      "vi": "xếp, đặt, để, sắp"
     },
     {
       "jro": "doq",
-      "vi": "bỏ, đặt vào, cắm",
-      "examples": [
-        "Õh Lạc dônh pa-ar kẹo. Õh doq sũng thùng rác. → Lạc lượm giấy bọc kẹo. Em bỏ vào giỏ rác.",
-        "Õh Mai doq ncao. Bình ncao rom lũng. → Mai cắm hoa. Bình hoa đẹp quá!"
-      ]
+      "vi": "bỏ, đặt vào, cắm"
     },
     {
       "jro": "hwât",
-      "vi": "vứt, xả, ném bỏ",
-      "examples": [
-        "Ga Tư sa kẹo. Něh hwât pa-ar kẹo sũng lớp. → Trò Tư ăn kẹo. Em xả giấy bọc kẹo ra lớp.",
-        "Õh Bĩnh hwât candoq lăp sũng daq ntu. → Bình vứt rác vào giếng nước.",
-        "Õh Lạc nhai: \"Vâng hwât candoq lăp sũng daq. Vơn phải jơ daq ntu dijrõh.\" → Lạc nói: \"Đừng vứt rác vào giếng. Ta nên giữ nước giếng sạch.\""
-      ]
+      "vi": "vứt, xả, ném bỏ"
     },
     {
       "jro": "dônh",
-      "vi": "nhặt, lượm",
-      "examples": [
-        "Õh Lạc dônh pa-ar kẹo. Õh doq sũng thùng rác. → Lạc lượm giấy bọc kẹo. Em bỏ vào giỏ rác.",
-        "Vơn tăm-dônh pa-ar. → Ta cùng nhặt giấy rác."
-      ]
+      "vi": "nhặt, lượm"
     },
     {
       "jro": "bốih",
-      "vi": "quét (nhà, sân)",
-      "examples": [
-        "Mê bốih nhi. Mê nhũp chổi cồ jong tong. → Mẹ quét nhà. Mẹ dùng chổi cán dài."
-      ]
+      "vi": "quét (nhà, sân)"
     },
     {
       "jro": "jut",
-      "vi": "lau, chùi, lau khô",
-      "examples": [
-        "• Õh Ngắt ôp nseng disuh daq cheq jut bảng. Luh ŏh Ngắt đăng plong nseng cồ jut bảng lăp sũng ntu daq? → (Hồng giặt khăn lau bảng bằng ca múc nước, không nhúng trực tiếp vào bể giếng để tránh làm dơ nước giếng).",
-        "Sa en piêng GaTrúc bây ŏh Mai văt saq rao a simbong bây jut a nseng. Nggan bây li jrõh lẽq. → (Dùng xong Trúc và Mai đem rửa bằng xà bông, lau bằng khăn. Bát và cốc đều sạch.)",
-        "GaTrúc jut bàng gê. → Trúc lau bàn ghế."
-      ]
+      "vi": "lau, chùi, lau khô"
     },
     {
       "jro": "chit",
-      "vi": "cắt, xén, tỉa",
-      "examples": [
-        "GaTrúc bây ŏh Mai něh chit can'hyêih ti a păch cồ sột. → (Trúc, Mai đã cắt ngắn móng tay bằng dao, kéo, cái bấm móng tay.)",
-        "GaTrúc nhup to cheq chit play cam. GaTrúc văt to diyah cheq ntrách chăch ti. → Trúc dùng dao cắt trái cam. Trúc cầm dao cẩn thận cho khỏi đứt tay.",
-        "Õh Mai nhup kéo chit pa-ar. → Mai dùng kéo cắt giấy."
-      ]
+      "vi": "cắt, xén, tỉa"
     },
     {
       "jro": "căt",
-      "vi": "hớt, cắt (tóc)",
-      "examples": [
-        "Sõq GaTrúc de něh căt dêh. → (Tóc Trúc được hớt ngắn.)"
-      ]
+      "vi": "hớt, cắt (tóc)"
     },
     {
       "jro": "vrăch",
-      "vi": "nhổ, khạc nhổ",
-      "examples": [
-        "Õh Lạc lũh tu ling cheq vrăch daq ju. → Lạc ho."
-      ]
+      "vi": "nhổ, khạc nhổ"
     },
     {
       "jro": "jơ",
-      "vi": "giữ, giữ gìn, bảo quản",
-      "examples": [
-        "Õh Lạc nhai bây ganai: \"Vơn phải jơ sên bàng cồ vơn học.\" → Lạc khuyên bạn: \"Ta nên giữ gìn bàn học.\"",
-        "Õh Ngắt nhai: \"Vơn phải jơ ding nhi dijrõh. Ding nhi jrõh, noq nhi trương yah rom.\" → Hồng nói: \"Chúng ta giữ tường cho sạch. Tường có sạch, trường mới đẹp.\"",
-        "Thầy khen panh: \"Khây ŏh uh lũng. Khây ŏh gựt jơ sên khây păch u nhi trương de.\" → Thầy khen: \"Các em ngoan lắm. Các em biết giữ gìn đồ dùng nhà trường.\""
-      ]
+      "vi": "giữ, giữ gìn, bảo quản"
     },
     {
       "jro": "sên",
-      "vi": "xem, coi, nhìn, ngắm",
-      "examples": [
-        "Õh Lạc nhai bây ganai: \"Vơn phải jơ sên bàng cồ vơn học.\" → Lạc khuyên bạn: \"Ta nên giữ gìn bàn học.\"",
-        "Õh Bĩnh chêr vlơ ding nhi. Khây ganai saq tất chẽq sên. → Bình vẽ lên tường. Các bạn xúm lại xem.",
-        "Thầy khen panh: \"Khây ŏh uh lũng. Khây ŏh gựt jơ sên khây păch u nhi trương de.\" → Thầy khen: \"Các em ngoan lắm. Các em biết giữ gìn đồ dùng nhà trường.\""
-      ]
+      "vi": "xem, coi, nhìn, ngắm"
     },
     {
       "jro": "nhai",
-      "vi": "nói, bảo, trò chuyện",
-      "examples": [
-        "Chih nhai yah camhlăng. → Nói năng mạnh dạn.",
-        "Nhai nhâng. → Nói thật.",
-        "Õh Nam nhai: \"Õh may mo Thầy.\" → Nam nói: \"Em cám ơn thầy.\""
-      ]
+      "vi": "nói, bảo, trò chuyện"
     },
     {
       "jro": "cuôl",
-      "vi": "gọi, mời, kêu cứu",
-      "examples": [
-        "\"Con saq cuôl vap sĩq roc tamuôi.\" → \"Con mời ba về tiếp khách.\"",
-        "\"Saq cuôl pôp Ngắt sĩq mê cơnh!\" → \"Đi gọi Hồng về cho má!\"",
-        "\"Ơ pôp. Mê cuôl. Pôp sĩq lawân ơ.\" → \"Chị ơi! Má kêu. Chị về liền nhé!\""
-      ]
+      "vi": "gọi, mời, kêu cứu"
     },
     {
       "jro": "tamti",
-      "vi": "dạy, dạy dỗ, hướng dẫn",
-      "examples": [
-        "Mê tamti ŏh Ngắt tanh su. → Má dạy Hồng dệt vải.",
-        "Vap tamti ŏh Lạc học. → Ba dạy Lạc học.",
-        "- Mê tamti tanh su (Má dạy con dệt vải). → - Mê an con huch jrơu / siêm con (Má đút cháo/thuốc cho con)."
-      ]
+      "vi": "dạy, dạy dỗ, hướng dẫn"
     },
     {
       "jro": "lêng",
-      "vi": "chơi, vui chơi, đùa giỡn",
-      "examples": [
-        "Yáo yiêng tamti con se lêng. → Thầy hướng dẫn học sinh chơi.",
-        "Õh Lạc bây ganai lêng yah vui. → Lạc và các bạn chơi đùa vui vẻ.",
-        "Õh Lạc bây ganai lêng \"Nhup nseng\". → Lạc cùng bạn chơi \"cướp cờ\"."
-      ]
+      "vi": "chơi, vui chơi, đùa giỡn"
     },
     {
       "jro": "mprăng",
-      "vi": "chạy, điều khiển, vận hành",
-      "examples": [
-        "Õh Sănh mprăng, něh vông hlâq. → Trò Sanh chạy. Em bị té.",
-        "Khây ganai mprăng tât. → Các bạn vội chạy đến.",
-        "Du mvu ndây mprăng lũh vlac candal trong. Du tong nděh jot něh saq tất. Bây něh pâh (thắng) dăn. Noq con se noq něh ntrach ji. → Đứa khác chạy ra giữa đường. Một chiếc xe đạp trờ tới. Xe thắng kịp. Đứa bé thoát khỏi tai nạn."
-      ]
+      "vi": "chạy, điều khiển, vận hành"
     },
     {
       "jro": "pãnh",
-      "vi": "bắn, đánh (bi)",
-      "examples": [
-        "GaTrúc pãnh bi. → Trúc đánh bi / bắn đạn."
-      ]
+      "vi": "bắn, đánh (bi)"
     },
     {
       "jro": "choh",
-      "vi": "đá (bóng)",
-      "examples": [
-        "GaTrúc choh bănh a vi ôi. Tât năr tamvôp GaTrúc hôm mo lêng. Avrêq GaTrúc côr vôq. → (Trúc đá banh từ sáng sớm. Đến trưa Trúc vẫn chưa thôi. Bây giờ Trúc nhức đầu.)",
-        "Sa ayh var pe lâm choh. → Ăn vài cái thôi."
-      ]
+      "vi": "đá (bóng)"
     },
     {
       "jro": "pâm",
-      "vi": "đánh, đập",
-      "examples": [
-        "Õh Lạc nhai: \"Ơ Thầy, maq khây ŏh de đăng sa. Mvac pôp heq něh pâm dip paniq ŏh de en.\" → Lạc nói: \"Thưa thầy, toán chúng em thua. Anh nầy đã đập trúng vai em.\"",
-        "GaTrúc uěh đức tiêng meo. GaTrúc uěh văt chhơ pâm so. → Trúc thường kéo đuôi con Miu. Trúc hay cầm que đánh chó.",
-        "Vâng pâm khây con sũng nhi, → Jơ ntrách chứt ji cồ gěh ăp năr."
-      ]
+      "vi": "đánh, đập"
     },
     {
       "jro": "tăm-ôp",
-      "vi": "giúp đỡ, tương trợ, đỡ đần",
-      "examples": [
-        "Õh Ngắt bây ŏh Lạc ôp tăm-ôp bây mê vap. → Hồng và Lạc giúp đỡ ba má.",
-        "Õh gěh ôp păch lây chẽq tăm-ôp bây mê? → (Em đã làm gì giúp mẹ?)"
-      ]
+      "vi": "giúp đỡ, tương trợ, đỡ đần"
     },
     {
       "jro": "sindach",
@@ -1280,10 +632,7 @@
     },
     {
       "jro": "tăm-nchoq",
-      "vi": "rượt đuổi nhau, đuổi bắt",
-      "examples": [
-        "Õh Ngắt bây ŏh Lạc vlam du mintan con se tăm-nchoq. Du mvu chhưl dip tamun cồ saq u trong. → Hồng và Lạc gặp một bọn trẻ đang rượt nhau. Một đứa xô vào một người đi đường."
-      ]
+      "vi": "rượt đuổi nhau, đuổi bắt"
     },
     {
       "jro": "jilơn",
@@ -1291,27 +640,15 @@
     },
     {
       "jro": "troq",
-      "vi": "tưới, giội (nước)",
-      "examples": [
-        "Õh Ngắt bây ŏh Lạc troq tơm chhơ bây vap. → Hồng và Lạc cùng tưới cây với cha.",
-        "Saq nggô en, ŏh Lạc hwât pa-ar lăp sũng thùng. Něh troq daq lăp jrõh chẽq. Něh jơ nhi ratung ăch yăh jrõh. → Đi tiêu xong, Lạc bỏ giấy vào thùng. Em giội nước vào cầu. Em giữ nhà tiêu sạch."
-      ]
+      "vi": "tưới, giội (nước)"
     },
     {
       "jro": "pơch",
-      "vi": "bắt chước, làm theo",
-      "examples": [
-        "• Var ndu heq ôp păch lây? Õh cơnh pơch đăng? Luh canoq? → (Hai bạn bẻ cành cây / phá rào: Không nên bắt chước vì làm hỏng cây và rào)."
-      ]
+      "vi": "bắt chước, làm theo"
     },
     {
       "jro": "pâh",
-      "vi": "ngăn cản, can ngăn, giữ lại, phanh xe",
-      "examples": [
-        "Õh Lạc pâh. → Lạc can-ngăn.",
-        "Õh Ngắt pâh ŏh Lạc: \"Õh vâng pĩq ncao. Gěh ncao năq trương vơn de něh yăh rom.\" → Hồng ngăn Lạc: \"Em không nên hái hoa. Nhờ có hoa, trường ta thêm đẹp.\"",
-        "Du mvu ndây mprăng lũh vlac candal trong. Du tong nděh jot něh saq tất. Bây něh pâh (thắng) dăn. Noq con se noq něh ntrach ji. → Đứa khác chạy ra giữa đường. Một chiếc xe đạp trờ tới. Xe thắng kịp. Đứa bé thoát khỏi tai nạn."
-      ]
+      "vi": "ngăn cản, can ngăn, giữ lại, phanh xe"
     },
     {
       "jro": "tâm-loq",
@@ -1319,37 +656,19 @@
     },
     {
       "jro": "chăch",
-      "vi": "đứt, rách, bị thương chảy máu",
-      "examples": [
-        "GaTrúc chăch ti něh saq wõng mê. → Trúc đứt tay; em đi tìm mẹ.",
-        "GaTrúc nhup to cheq chit play cam. GaTrúc văt to diyah cheq ntrách chăch ti. → Trúc dùng dao cắt trái cam. Trúc cầm dao cẩn thận cho khỏi đứt tay.",
-        "Canoq đăng phùng chăch ti. → Như thế không sợ nguy-hiểm."
-      ]
+      "vi": "đứt, rách, bị thương chảy máu"
     },
     {
       "jro": "vông hlâq",
-      "vi": "ngã, té, sụp ngã",
-      "examples": [
-        "Õh Sănh mprăng, něh vông hlâq. → Trò Sanh chạy. Em bị té.",
-        "Õh Lạc nhai: \"Ơ Thầy, pôp Sănh něh vông hlâq tĩq.\" → Lạc nói: \"Thưa thầy, anh Sanh té kìa.\"",
-        "GaTrúc vông hlâq. → Trúc ngã."
-      ]
+      "vi": "ngã, té, sụp ngã"
     },
     {
       "jro": "tăm play",
-      "vi": "tiêm chủng, chích ngừa, chủng đậu",
-      "examples": [
-        "Ăp ndu tăm-siêr saq tăm play. → Mọi người rủ nhau ra tiêm chủng.",
-        "Y-Tá tăm play an GaTrúc iưn. → Cô y tá chủng đậu cho Trúc.",
-        "Khây ŏh ndây khoi gěh chích bây tăm play. → Các em khác đều được tiêm và chủng đậu."
-      ]
+      "vi": "tiêm chủng, chích ngừa, chủng đậu"
     },
     {
       "jro": "tachựt",
-      "vi": "diệt trừ, trừ tiệt, tiêu diệt",
-      "examples": [
-        "Nõq vơn phải tachựt něh. → Cần phải diệt chúng."
-      ]
+      "vi": "diệt trừ, trừ tiệt, tiêu diệt"
     },
     {
       "jro": "vroh",
@@ -1361,279 +680,143 @@
     },
     {
       "jro": "tatâm",
-      "vi": "lợp, sửa mái nhà",
-      "examples": [
-        "Vap tatâm nhi. → Ba sửa mái nhà.",
-        "- Vap tatâm talong (Ba rào lại hàng rào tre). → Mê ôp păch lây? (Má làm gì?)"
-      ]
+      "vi": "lợp, sửa mái nhà"
     },
     {
       "jro": "khwai",
-      "vi": "cuốc (đất), đào bới",
-      "examples": [
-        "Vap něh khwai. → Ba đang cuốc đất."
-      ]
+      "vi": "cuốc (đất), đào bới"
     },
     {
       "jro": "tanh",
-      "vi": "dệt (vải, chiếu)",
-      "examples": [
-        "Mê tamti ŏh Ngắt tanh su. → Má dạy Hồng dệt vải.",
-        "- Mê tamti tanh su (Má dạy con dệt vải). → - Mê an con huch jrơu / siêm con (Má đút cháo/thuốc cho con)."
-      ]
+      "vi": "dệt (vải, chiếu)"
     },
     {
       "jro": "tavôl",
-      "vi": "vá, khâu, may vá",
-      "examples": [
-        "Mê tavôl ao. → Má vá áo.",
-        "Ao ŏh Lạc de hec. Mê tavôl sĩq vlâq. → Áo Lạc rách. Má khâu lại."
-      ]
+      "vi": "vá, khâu, may vá"
     },
     {
       "jro": "arung",
-      "vi": "sảy (gạo), sàng sảy",
-      "examples": [
-        "Mê arung phe. → Má sảy gạo."
-      ]
+      "vi": "sảy (gạo), sàng sảy"
     },
     {
       "jro": "siêm",
-      "vi": "cho ăn, bón ăn, nuôi dưỡng",
-      "examples": [
-        "Õh Lạc siêm ŏh sa piêng. → Lạc cho em ăn."
-      ]
+      "vi": "cho ăn, bón ăn, nuôi dưỡng"
     },
     {
       "jro": "pre",
-      "vi": "đánh thức, gọi dậy",
-      "examples": [
-        "GaTrúc pre ŏh Mai. → Trúc đánh thức Mai."
-      ]
+      "vi": "đánh thức, gọi dậy"
     },
     {
       "jro": "racoh",
-      "vi": "súc, súc rửa",
-      "examples": [
-        "Õh Mai racoh mĩnh. → Mai súc miệng."
-      ]
+      "vi": "súc, súc rửa"
     },
     {
       "jro": "tandum",
-      "vi": "tắm rửa (cho người khác)",
-      "examples": [
-        "Mê tandum an ŏh Thut ium. → Má tắm cho Việt."
-      ]
+      "vi": "tắm rửa (cho người khác)"
     },
     {
       "jro": "wõng",
-      "vi": "tìm, tìm kiếm, tìm chọn",
-      "examples": [
-        "Õh Lạc saq wõng Thầy-yáo. → Lạc đi tìm thầy.",
-        "Du mvu cô camvĩnh jingo măt chol chhơ gadông cheq wõng trong saq. Khây con se mprăng bây. Khây něh jiloq cô camvĩnh nõq. → Một ông lão mù chống gậy dò đường đi. Mấy đứa trẻ chạy theo. Chúng chế riễu ông.",
-        "Ăp ndu wõng du sinlơ cheq lêng. → (Mỗi em chọn một trò chơi.)"
-      ]
+      "vi": "tìm, tìm kiếm, tìm chọn"
     },
     {
       "jro": "prăp",
-      "vi": "cất, cất giữ, lưu trữ",
-      "examples": [
-        "Ôp en GaTrúc cheq prăp to sĩq vlâq. → Dùng xong, Trúc cất dao vào hộp."
-      ]
+      "vi": "cất, cất giữ, lưu trữ"
     },
     {
       "jro": "têch",
-      "vi": "dắt, dẫn dắt (bằng tay)",
-      "examples": [
-        "Tamun heq têch ŏh Mai a găn trong. → Người này dắt Mai qua đường."
-      ]
+      "vi": "dắt, dẫn dắt (bằng tay)"
     },
     {
       "jro": "iau",
-      "vi": "dẫn, đưa đi, dẫn đường",
-      "examples": [
-        "En mê iau GaTrúc saq tu nhi ji. → Rồi mẹ dẫn Trúc đến trạm cứu thương [TRẠM CỨU THƯƠNG]."
-      ]
+      "vi": "dẫn, đưa đi, dẫn đường"
     },
     {
       "jro": "cắp",
-      "vi": "cắn, đốt, chích (chó/muỗi)",
-      "examples": [
-        "Moih cắp jâng ŏh Mai de. → Muỗi đốt chân Mai.",
-        "Nõq GaTrúc něh uěh meo khwach, so cắp. → Cho nên Trúc hay bị mèo cào, chó cắn.",
-        "So cắp GaTrúc, GaTrúc cuôl mê. Mê dah so saq. → Trúc bị chó cắn, Trúc kêu cứu. Mẹ lại xua chó đi."
-      ]
+      "vi": "cắn, đốt, chích (chó/muỗi)"
     },
     {
       "jro": "khwach",
-      "vi": "cào, cấu",
-      "examples": [
-        "Nõq GaTrúc něh uěh meo khwach, so cắp. → Cho nên Trúc hay bị mèo cào, chó cắn."
-      ]
+      "vi": "cào, cấu"
     },
     {
       "jro": "đức",
-      "vi": "kéo, giật, kéo vào",
-      "examples": [
-        "Nděh mprăng u trong. Õh Lạc ntõng ti lũh pađau khây păch cồ rom. Ngắt đức ti ŏh de bây nhai: \"Lăm gũq sũng nděh, vâng ntõng ti lũh tu ling.\" → Xe chạy bon-bon trên đường. Lạc thò tay ra ngoài chỉ trỏ cảnh vật. Hồng vội kéo tay em vào và bảo: \"Khi đi xe, không nên thò tay ra ngoài.\"",
-        "Ơ Mai! Vâng đức tiêng meo. → Mai ơi! Đừng kéo đuôi mèo.",
-        "GaTrúc uěh đức tiêng meo. GaTrúc uěh văt chhơ pâm so. → Trúc thường kéo đuôi con Miu. Trúc hay cầm que đánh chó."
-      ]
+      "vi": "kéo, giật, kéo vào"
     },
     {
       "jro": "krêng",
-      "vi": "kiêng, cữ (khi đau ốm)",
-      "examples": [
-        "Õh Mai krêng sa piêng. Něh sa por. → Mai kiêng cơm. Mai ăn cháo."
-      ]
+      "vi": "kiêng, cữ (khi đau ốm)"
     },
     {
       "jro": "yăh",
-      "vi": "tốt, lành, đẹp, ngoan, an toàn",
-      "examples": [
-        "Saq nggô en, ŏh Lạc hwât pa-ar lăp sũng thùng. Něh troq daq lăp jrõh chẽq. Něh jơ nhi ratung ăch yăh jrõh. → Đi tiêu xong, Lạc bỏ giấy vào thùng. Em giội nước vào cầu. Em giữ nhà tiêu sạch.",
-        "Õh Ngắt pâh ŏh Lạc: \"Õh vâng pĩq ncao. Gěh ncao năq trương vơn de něh yăh rom.\" → Hồng ngăn Lạc: \"Em không nên hái hoa. Nhờ có hoa, trường ta thêm đẹp.\"",
-        "Nděh heq đăng gõq tamuôi. Õh Ngắt bây ŏh Lạc hao nděh. Ăp ndu gũq du gatŭq sũng nděh. Nděh mprăng yăh bây trong. → Chuyến xe nầy không đông khách. Hồng và Lạc lên xe. Mỗi người ngồi một chỗ. Xe chạy trên đường êm thấm."
-      ]
+      "vi": "tốt, lành, đẹp, ngoan, an toàn"
     },
     {
       "jro": "jrõh",
-      "vi": "sạch, sạch sẽ",
-      "examples": [
-        "Gěh yah jrõh noq gěh yah camhlăng. → Có sạch sẽ mới khỏe mạnh.",
-        "Õh Ngắt nhai: \"Vơn phải jơ ding nhi dijrõh. Ding nhi jrõh, noq nhi trương yah rom.\" → Hồng nói: \"Chúng ta giữ tường cho sạch. Tường có sạch, trường mới đẹp.\"",
-        "Saq nggô en, ŏh Lạc hwât pa-ar lăp sũng thùng. Něh troq daq lăp jrõh chẽq. Něh jơ nhi ratung ăch yăh jrõh. → Đi tiêu xong, Lạc bỏ giấy vào thùng. Em giội nước vào cầu. Em giữ nhà tiêu sạch."
-      ]
+      "vi": "sạch, sạch sẽ"
     },
     {
       "jro": "sâq",
-      "vi": "bẩn, dơ, lấm láp",
-      "examples": [
-        "Vlam vi candoq, Ngắt pađau gâm nhai bây ŏh panh: \"Nhi heq rung candoq u trong, sâq lũng.\" → Gặp đống rác, Hồng chỉ tay và nói với em: \"Nhà nầy đổ rác ra đường, dơ quá.\"",
-        "Ao mphla ayh sâq. → Quần áo em lấm.",
-        "Daq tanlô sâq, huch đăng gěh. → Nước ao bẩn, không uống được."
-      ]
+      "vi": "bẩn, dơ, lấm láp"
     },
     {
       "jro": "rom",
-      "vi": "đẹp, xinh xắn",
-      "examples": [
-        "Õh Ngắt nhai: \"Vơn phải jơ ding nhi dijrõh. Ding nhi jrõh, noq nhi trương yah rom.\" → Hồng nói: \"Chúng ta giữ tường cho sạch. Tường có sạch, trường mới đẹp.\"",
-        "Õh Ngắt pâh ŏh Lạc: \"Õh vâng pĩq ncao. Gěh ncao năq trương vơn de něh yăh rom.\" → Hồng ngăn Lạc: \"Em không nên hái hoa. Nhờ có hoa, trường ta thêm đẹp.\"",
-        "Nděh mprăng u trong. Õh Lạc ntõng ti lũh pađau khây păch cồ rom. Ngắt đức ti ŏh de bây nhai: \"Lăm gũq sũng nděh, vâng ntõng ti lũh tu ling.\" → Xe chạy bon-bon trên đường. Lạc thò tay ra ngoài chỉ trỏ cảnh vật. Hồng vội kéo tay em vào và bảo: \"Khi đi xe, không nên thò tay ra ngoài.\""
-      ]
+      "vi": "đẹp, xinh xắn"
     },
     {
       "jro": "camhlăng",
-      "vi": "mạnh mẽ, khỏe mạnh, bổ dưỡng",
-      "examples": [
-        "Chih nhai yah camhlăng. → Nói năng mạnh dạn.",
-        "Gěh yah jrõh noq gěh yah camhlăng. → Có sạch sẽ mới khỏe mạnh.",
-        "GŨQ YAH JRÕH YAH CAMHLĂNG, LỚP 1 → Vệ sinh Lớp Năm (Lớp Một)"
-      ]
+      "vi": "mạnh mẽ, khỏe mạnh, bổ dưỡng"
     },
     {
       "jro": "pa-ăm",
-      "vi": "ngon, ngon miệng, ngọt lành",
-      "examples": [
-        "Phải tăm-gâl păch sa, canoq dê camhlăng bây yăh pa-ăm. → (Cần thay đổi đồ ăn, như thế mới ngon và bổ.)",
-        "Daq jrõh huch yăh pa-ăm. Huch daq sâq dê gěh ji. → (Nước sạch uống mới tốt. Uống nước bẩn dễ mắc bệnh.)",
-        "Play dŭm něh pa-ăm bây bổ wõq. → Quả chín vừa bổ vừa ngon."
-      ]
+      "vi": "ngon, ngon miệng, ngọt lành"
     },
     {
       "jro": "dông",
-      "vi": "gọn gàng, ngăn nắp, tốt đẹp",
-      "examples": [
-        "Ti vơn vơn ôp yah dông. → Bài ôn: Tự làm lấy",
-        "Sõq var ndu de saih dê dông. → (Tóc hai em chải gọn.)",
-        "Õh cơnh play lây dông? → (Em chọn thứ quả nào?)"
-      ]
+      "vi": "gọn gàng, ngăn nắp, tốt đẹp"
     },
     {
       "jro": "đắp nđắp",
-      "vi": "ngay ngắn, chỉnh tề, gọn gàng",
-      "examples": [
-        "Chẽq siraq yah đắp nđắp. → Xếp sách vở gọn gàng."
-      ]
+      "vi": "ngay ngắn, chỉnh tề, gọn gàng"
     },
     {
       "jro": "hwi",
-      "vi": "rộng, rộng rãi, thênh thang",
-      "examples": [
-        "Avôq nhi gěh ntěh hwi. → Trước nhà có sân rộng.",
-        "Nhi trương yăh hwi bây yăh lahợt. → Trường rộng và thoáng."
-      ]
+      "vi": "rộng, rộng rãi, thênh thang"
     },
     {
       "jro": "lahợt",
-      "vi": "mát, mát mẻ, thoáng đãng",
-      "examples": [
-        "Nhi jrõh bây yăh lahợt. → Nhà sạch và mát.",
-        "Nhi trương yăh hwi bây yăh lahợt. → Trường rộng và thoáng.",
-        "Nhi trương vơn jrõh bây lahợt. → Trường ta sạch và mát."
-      ]
+      "vi": "mát, mát mẻ, thoáng đãng"
     },
     {
       "jro": "hặt",
-      "vi": "chật, chật chội",
-      "examples": [
-        "Nděh đò něh pâh sĩq vlâq. Õh Lạc siêr pôp hao nděh. Õh Ngắt nhai: \"Nděh hặt en, đăng hồm gatŭq.\" → Õh Lạc nhai: \"Vơn tao yaq u gung cồ jot hao jur nõq khoi gěh.\""
-      ]
+      "vi": "chật, chật chội"
     },
     {
       "jro": "vênh",
-      "vi": "đầy, đầy ắp",
-      "examples": [
-        "Du tong nděh lam mơch mprăng. Õh Lạc cơnh hao. Õh Ngắt pâh ŏh sĩq vlâq bây nhai: \"Nděh vênh èn. Vơn cấp nděh alưr wõq.\" → Một chiếc xe lam sắp chạy. Lạc toan bước lên xe. Hồng giữ em lại và nói: \"Xe đã đầy. Ta nên đợi chuyến sau.\"",
-        "• Nděh lam něh [vênh] tamuôi. Õh Ngắt bây ŏh Lạc cấp nděh ndây. → (Xe lam đã [đầy] khách, Hồng và Lạc đứng chờ chuyến khác).",
-        "Khây thùng heq vênh ayh candoq. → Những thùng này đầy rác rưởi."
-      ]
+      "vi": "đầy, đầy ắp"
     },
     {
       "jro": "takiq",
-      "vi": "ít, thưa thớt, một ít",
-      "examples": [
-        "Du mat wõq, nděh đò ndây tất. Nděh heq takiq tamuôi. Õh Ngắt bây ŏh Lạc hao nděh bây lăp sũng galăm. Ăp ndu gũq du lâm gê. → Lát sau, một chiếc xe đò khác tới. Xe nầy thưa khách. Hồng và Lạc lên xe bước vào trong. Mỗi em ngồi một ghế.",
-        "• Phải sa gõq ha takiq? (Nên ăn ít hay nhiều? - Ăn vừa đủ, điều độ). → • Vagõq yờ ŏh saq viq? (Mấy giờ em đi ngủ? - 9 giờ tối)."
-      ]
+      "vi": "ít, thưa thớt, một ít"
     },
     {
       "jro": "gõq",
-      "vi": "nhiều, đông đúc",
-      "examples": [
-        "Nděh heq đăng gõq tamuôi. Õh Ngắt bây ŏh Lạc hao nděh. Ăp ndu gũq du gatŭq sũng nděh. Nděh mprăng yăh bây trong. → Chuyến xe nầy không đông khách. Hồng và Lạc lên xe. Mỗi người ngồi một chỗ. Xe chạy trên đường êm thấm.",
-        "Õh Mai sa play pa-oq gõq lũng. Õh Mai ji candul, něh gũq grô candul bây nhim. → (Mai ăn nhiều xoài quá. Mai đau bụng, ngồi ôm bụng khóc.)",
-        "Ôp gõq mreq něh hơr lũng. → Nhiều ớt cay quá!"
-      ]
+      "vi": "nhiều, đông đúc"
     },
     {
       "jro": "dêh",
-      "vi": "ngắn, cụt",
-      "examples": [
-        "Sõq GaTrúc de něh căt dêh. → (Tóc Trúc được hớt ngắn.)"
-      ]
+      "vi": "ngắn, cụt"
     },
     {
       "jro": "jong",
-      "vi": "dài",
-      "examples": [
-        "Mê bốih nhi. Mê nhũp chổi cồ jong tong. → Mẹ quét nhà. Mẹ dùng chổi cán dài."
-      ]
+      "vi": "dài"
     },
     {
       "jro": "sat",
-      "vi": "chua",
-      "examples": [
-        "Play hwŭt něh sat bây chot. → Quả xanh chua hoặc chát."
-      ]
+      "vi": "chua"
     },
     {
       "jro": "chot",
-      "vi": "chát",
-      "examples": [
-        "Play hwŭt něh sat bây chot. → Quả xanh chua hoặc chát."
-      ]
+      "vi": "chát"
     },
     {
       "jro": "dùm",
@@ -1641,39 +824,23 @@
     },
     {
       "jro": "hwŭt",
-      "vi": "xanh, còn sống, chưa chín",
-      "examples": [
-        "Play hwŭt něh sat bây chot. → Quả xanh chua hoặc chát."
-      ]
+      "vi": "xanh, còn sống, chưa chín"
     },
     {
       "jro": "hơr",
-      "vi": "cay",
-      "examples": [
-        "Ôp gõq mreq něh hơr lũng. → Nhiều ớt cay quá!"
-      ]
+      "vi": "cay"
     },
     {
       "jro": "ntiêt",
-      "vi": "mặn",
-      "examples": [
-        "Daq măm ntiêt lũng, ơ. Con tuh du dệt en. → Nước mắm mặn lắm đấy! Con rót một chút thôi."
-      ]
+      "vi": "mặn"
     },
     {
       "jro": "khlŭh",
-      "vi": "sôi (nước)",
-      "examples": [
-        "Khây ŏh cơnh sa piêng, ca, pai canji, chăp... bây huch daq gěh gâm khlŭh. → Các em cần ăn cơm, cá, rau, trứng... và uống nước đun sôi, lọc kỹ.",
-        "Daq cồ gěh gâm khlŭh bây chẽq la-ah. → Nước lọc đã đun sôi để nguội."
-      ]
+      "vi": "sôi (nước)"
     },
     {
       "jro": "la-ah",
-      "vi": "nguội",
-      "examples": [
-        "Daq cồ gěh gâm khlŭh bây chẽq la-ah. → Nước lọc đã đun sôi để nguội."
-      ]
+      "vi": "nguội"
     },
     {
       "jro": "jru",
@@ -1681,36 +848,19 @@
     },
     {
       "jro": "phũng",
-      "vi": "nguy hiểm, tai họa",
-      "examples": [
-        "Thầy me lẽq ji. Õh Lạc bây ganai đăng thêng ôp ngây phũng Thầy hyoq. → Thầy vừa hết bệnh. Lạc và các bạn không làm ồn để thầy khỏi mệt.",
-        "Õh Ngắt nhai: \"Tao yaq u vi nõq đê phũng lũng.\" → Chiếc xe đò ngừng lại. Lạc giục chị lên xe. Hồng bảo: \"Xe chật, đâu còn chỗ.\"",
-        "• Lăm nděh mprăng ntõng [ti] lũh tu ling đê phũng lũng. → (Khi xe chạy, thò [tay/đầu] ra ngoài rất nguy hiểm)."
-      ]
+      "vi": "nguy hiểm, tai họa"
     },
     {
       "jro": "vui",
-      "vi": "vui, vui vẻ",
-      "examples": [
-        "Õh Lạc bây ganai lêng yah vui. → Lạc và các bạn chơi đùa vui vẻ."
-      ]
+      "vi": "vui, vui vẻ"
     },
     {
       "jro": "jwa",
-      "vi": "im lặng, trật tự, yên lặng",
-      "examples": [
-        "\"Khây ŏh gũq yah jwa rangăp.\" → \"Các em hãy giữ im lặng.\"",
-        "Lẽq sũng lớp gũq jwa lẽq cheq ôp bai. → Cả lớp im lặng làm bài."
-      ]
+      "vi": "im lặng, trật tự, yên lặng"
     },
     {
       "jro": "măq",
-      "vi": "lớn, to, trưởng thành",
-      "examples": [
-        "Var ndu khây něh saq găn ntrach trong măq. Var ndu khây něh saq du maq trong a maq ma. → Hai em sang qua đường cái. Hai em đi sát lề đường bên phải.",
-        "GaTrúc bây ŏh Mai cơnh sô măq. Mê an khây něh sa păch sa yăh camhlăng. → Trúc và Mai muốn chóng lớn. Má cho các em ăn thức ăn bổ.",
-        "En nõq khây ŏh sô măq! → Rồi các em sẽ lớn trông thấy!"
-      ]
+      "vi": "lớn, to, trưởng thành"
     },
     {
       "jro": "ken",
@@ -1718,244 +868,147 @@
     },
     {
       "jro": "gal",
-      "vi": "đúng, phải, chuẩn xác",
-      "examples": [
-        "Siraq simbūt cheq di gal gatŭq. → Sách vở xếp đúng chỗ.",
-        "Vu lây cồ tih? Vu lây cồ gal? → Ai đúng? Ai sai?",
-        "- Bạn bỏ giấy vào sọt rác: Đúng (Gal). → - Bạn lau bàn sạch: Đúng (Gal)."
-      ]
+      "vi": "đúng, phải, chuẩn xác"
     },
     {
       "jro": "tih",
-      "vi": "sai, quấy, trái lẽ",
-      "examples": [
-        "Vu lây cồ tih? Vu lây cồ gal? → Ai đúng? Ai sai?",
-        "- Bạn vẽ bậy lên tường: Sai (Tih). → - Bạn xô đẩy khi xếp hàng: Sai (Tih)."
-      ]
+      "vi": "sai, quấy, trái lẽ"
     },
     {
       "jro": "nhâng bâng",
-      "vi": "thật thà, thẳng thắn, trung thực",
-      "examples": [
-        "Nhâng bâng. → Thật thà."
-      ]
+      "vi": "thật thà, thẳng thắn, trung thực"
     },
     {
       "jro": "singot",
-      "vi": "vắng, vắng vẻ, tĩnh mịch",
-      "examples": [
-        "Sây singot nděh nõq khây něh găn trong. Canoq nděh đăng jot vơn. → Thấy vắng xe các em mới qua đường. Như vậy sẽ không bị xe cán."
-      ]
+      "vi": "vắng, vắng vẻ, tĩnh mịch"
     },
     {
       "jro": "lor",
-      "vi": "sớm, trước",
-      "examples": [
-        "Lor a war sa GaTrúc sa tangơi. → Trúc ăn bắp trước bữa cơm.",
-        "• Rao ti, tu mặt lor a sa piêng. → (Rửa tay, rửa mặt trước khi ăn.)",
-        "Õh Mai viq lor. Õh Mai căh lor. → Mai ngủ sớm. Mai dậy sớm."
-      ]
+      "vi": "sớm, trước"
     },
     {
       "jro": "nặc năng",
-      "vi": "khuya, đêm muộn",
-      "examples": [
-        "U nhi, Thầy-yáo ôp vruq tật nặc năng. → Ở nhà, thầy làm việc đến khuya.",
-        "Nặc năng en GaTrúc hôm ndoh saq viq. GaTrúc vĩq mơch năr tamvôp. Něh phlâq vĩq tanâm măq. → Trúc thức khuya. Trúc ngủ bù buổi trưa, nằm thở dốc."
-      ]
+      "vi": "khuya, đêm muộn"
     },
     {
       "jro": "lawân",
-      "vi": "liền, ngay lập tức",
-      "examples": [
-        "\"Ơ pôp. Mê cuôl. Pôp sĩq lawân ơ.\" → \"Chị ơi! Má kêu. Chị về liền nhé!\""
-      ]
+      "vi": "liền, ngay lập tức"
     },
     {
       "jro": "đăng",
-      "vi": "không, chẳng",
-      "examples": [
-        "Đăng cơnh vu lây ôp an. → Đuyh sêch saih sõq gâl ao,",
-        "\"May mo, anh đăng sa.\" → \"Cám ơn, tôi không ăn.\"",
-        "Õh heq dê khen ha đăng? Luh canoq? → Em bé nầy có đáng khen không? Tại sao?"
-      ]
+      "vi": "không, chẳng"
     },
     {
       "jro": "vâng",
-      "vi": "chớ, đừng, không nên",
-      "examples": [
-        "\"Khây con vâng sa bănh cồ tăch bây trong.\" → \"Các con đừng ăn bánh bán dọc đường.\"",
-        "Õh Lạc nhai: \"Vâng hwât candoq lăp sũng daq. Vơn phải jơ daq ntu dijrõh.\" → Lạc nói: \"Đừng vứt rác vào giếng. Ta nên giữ nước giếng sạch.\"",
-        "Õh Ngắt pâh ŏh Lạc: \"Õh vâng pĩq ncao. Gěh ncao năq trương vơn de něh yăh rom.\" → Hồng ngăn Lạc: \"Em không nên hái hoa. Nhờ có hoa, trường ta thêm đẹp.\""
-      ]
+      "vi": "chớ, đừng, không nên"
     },
     {
       "jro": "hôm",
-      "vi": "chưa, còn",
-      "examples": [
-        "• Lăm nděh hôm ndoh pâh sĩq vlâq, vơn vâng [jur ha hao]. → (Khi xe chưa ngừng hẳn, ta chớ [nhảy xuống hoặc bước lên]).",
-        "GaTrúc choh bănh a vi ôi. Tât năr tamvôp GaTrúc hôm mo lêng. Avrêq GaTrúc côr vôq. → (Trúc đá banh từ sáng sớm. Đến trưa Trúc vẫn chưa thôi. Bây giờ Trúc nhức đầu.)",
-        "Nặc năng en GaTrúc hôm ndoh saq viq. GaTrúc vĩq mơch năr tamvôp. Něh phlâq vĩq tanâm măq. → Trúc thức khuya. Trúc ngủ bù buổi trưa, nằm thở dốc."
-      ]
+      "vi": "chưa, còn"
     },
     {
       "jro": "en",
-      "vi": "rồi, đã, xong",
-      "examples": [
-        "Õh Lạc nhai: \"Ơ Thầy, maq khây ŏh de đăng sa. Mvac pôp heq něh pâm dip paniq ŏh de en.\" → Lạc nói: \"Thưa thầy, toán chúng em thua. Anh nầy đã đập trúng vai em.\"",
-        "Õh Lạc nhai bây ganai: \"Bản đồ hec en. Vơn taput sĩq vlâq.\" → Lạc nói với bạn: \"Bản đồ đã rách. Chúng ta nên dán lại.\"",
-        "Saq nggô en, ŏh Lạc hwât pa-ar lăp sũng thùng. Něh troq daq lăp jrõh chẽq. Něh jơ nhi ratung ăch yăh jrõh. → Đi tiêu xong, Lạc bỏ giấy vào thùng. Em giội nước vào cầu. Em giữ nhà tiêu sạch."
-      ]
+      "vi": "rồi, đã, xong"
     },
     {
       "jro": "khoi",
-      "vi": "cũng, đã cùng",
-      "examples": [
-        "Ti GaTrúc de yăh jrõh. Ti Mai de khoi yăh jrõh. → (Bàn tay Trúc sạch. Bàn tay Mai cũng sạch.)",
-        "GaTrúc khoi huch văt nseng muh. → Trúc quên dùng khăn tay.",
-        "Vap khoi saq bây ŏh Trúc nggâm ŏh Mai. → (Ba cũng đi với Trúc và Mai.)"
-      ]
+      "vi": "cũng, đã cùng"
     },
     {
       "jro": "cheq",
-      "vi": "để, đặng, hầu cho",
-      "examples": [
-        "Siraq simbūt cheq di gal gatŭq. → Sách vở xếp đúng chỗ.",
-        "Lẽq sũng lớp gũq jwa lẽq cheq ôp bai. → Cả lớp im lặng làm bài.",
-        "Õh Lạc cheq an ŏh Nam iưn. → Lạc nhường đu cho Nam."
-      ]
+      "vi": "để, đặng, hầu cho"
     },
     {
       "jro": "bây",
-      "vi": "và, với, cùng",
-      "examples": [
-        "Gâl ao mphla ndây bây chuq yep ayh. → Thay quần áo và mang dép lấy.",
-        "Taklôn mùng, su, vêl bây ao mphla. → Xếp đặt mùng, mền, chiếu và quần áo.",
-        "\"Khây con vâng sa bănh cồ tăch bây trong.\" → \"Các con đừng ăn bánh bán dọc đường.\""
-      ]
+      "vi": "và, với, cùng"
     },
     {
       "jro": "a",
-      "vi": "ở, tại, từ, bằng (phương tiện)",
-      "examples": [
-        "Play bănh lũh ntrach a talong. Õh Ngắt đăng an ŏh Lạc waq talong cheq lũh. → Quả banh lọt ra ngoài rào. Hồng không cho Lạc vạch rào chui ra.",
-        "Yông Pe ji. Õh Ngắt bây ŏh Lạc saq mơq yông. Var ndu khây něh lũh ntrach a nhi. → Dì Ba đau. Hồng và Lạc đi thăm dì. Hai em ra khỏi nhà.",
-        "Var ndu khây něh saq găn ntrach trong măq. Var ndu khây něh saq du maq trong a maq ma. → Hai em sang qua đường cái. Hai em đi sát lề đường bên phải."
-      ]
+      "vi": "ở, tại, từ, bằng (phương tiện)"
     },
     {
       "jro": "u",
-      "vi": "ở, tại, trong",
-      "examples": [
-        "U nhi, Thầy-yáo ôp vruq tật nặc năng. → Ở nhà, thầy làm việc đến khuya.",
-        "Thầy khen panh: \"Khây ŏh uh lũng. Khây ŏh gựt jơ sên khây păch u nhi trương de.\" → Thầy khen: \"Các em ngoan lắm. Các em biết giữ gìn đồ dùng nhà trường.\"",
-        "Õh Ngắt bây ŏh Lạc vlam du mintan con se tăm-nchoq. Du mvu chhưl dip tamun cồ saq u trong. → Hồng và Lạc gặp một bọn trẻ đang rượt nhau. Một đứa xô vào một người đi đường."
-      ]
+      "vi": "ở, tại, trong"
     },
     {
       "jro": "sũng",
-      "vi": "trong, bên trong",
-      "examples": [
-        "Lẽq sũng lớp gũq jwa lẽq cheq ôp bai. → Cả lớp im lặng làm bài.",
-        "Ga Tư sa kẹo. Něh hwât pa-ar kẹo sũng lớp. → Trò Tư ăn kẹo. Em xả giấy bọc kẹo ra lớp.",
-        "Õh Lạc dônh pa-ar kẹo. Õh doq sũng thùng rác. → Lạc lượm giấy bọc kẹo. Em bỏ vào giỏ rác."
-      ]
+      "vi": "trong, bên trong"
     },
     {
       "jro": "tu ling",
-      "vi": "ngoài, bên ngoài",
-      "examples": [
-        "Õh Lạc lũh tu ling cheq vrăch daq ju. → Lạc ho.",
-        "Nděh mprăng u trong. Õh Lạc ntõng ti lũh pađau khây păch cồ rom. Ngắt đức ti ŏh de bây nhai: \"Lăm gũq sũng nděh, vâng ntõng ti lũh tu ling.\" → Xe chạy bon-bon trên đường. Lạc thò tay ra ngoài chỉ trỏ cảnh vật. Hồng vội kéo tay em vào và bảo: \"Khi đi xe, không nên thò tay ra ngoài.\"",
-        "• Lăm nděh mprăng ntõng [ti] lũh tu ling đê phũng lũng. → (Khi xe chạy, thò [tay/đầu] ra ngoài rất nguy hiểm)."
-      ]
+      "vi": "ngoài, bên ngoài"
     },
     {
       "jro": "avôq",
-      "vi": "trước, phía trước, đằng trước",
-      "examples": [
-        "Avôq palây gěh nhi trương. → Đầu làng có trường Tiểu học.",
-        "Avôq nhi gěh ntěh hwi. → Trước nhà có sân rộng."
-      ]
+      "vi": "trước, phía trước, đằng trước"
     },
     {
       "jro": "alưr",
-      "vi": "sau, phía sau, đằng sau, sau khi",
-      "examples": [
-        "Du tong nděh lam mơch mprăng. Õh Lạc cơnh hao. Õh Ngắt pâh ŏh sĩq vlâq bây nhai: \"Nděh vênh èn. Vơn cấp nděh alưr wõq.\" → Một chiếc xe lam sắp chạy. Lạc toan bước lên xe. Hồng giữ em lại và nói: \"Xe đã đầy. Ta nên đợi chuyến sau.\"",
-        "• Alưr sa, rao ti, tu sĩq vlâq mặt, đuyh sêch. → (Sau khi ăn, rửa tay, lại rửa mặt, đánh răng.)",
-        "Alưr nhi gěh rông tơm play chhơ. → Sau nhà có vườn cây trái."
-      ]
+      "vi": "sau, phía sau, đằng sau, sau khi"
     },
     {
       "jro": "mơch",
-      "vi": "gần, sắp, sát bên",
-      "examples": [
-        "Õh Ngắt bây ŏh Lạc mơch palây yông de. Õh Lạc nhai: \"Vrêq vơn găn maq toq trong vớn pôp!\" → Hồng và Lạc gần tới làng của dì. Lạc nói: \"Mình qua đường đi chị.\"",
-        "Du tong nděh lam mơch mprăng. Õh Lạc cơnh hao. Õh Ngắt pâh ŏh sĩq vlâq bây nhai: \"Nděh vênh èn. Vơn cấp nděh alưr wõq.\" → Một chiếc xe lam sắp chạy. Lạc toan bước lên xe. Hồng giữ em lại và nói: \"Xe đã đầy. Ta nên đợi chuyến sau.\"",
-        "Nděh mơch gũq sĩq vlâq. Du mvu něh tamtroh jur. Něh tachrơng jâng bây vông joch. → Xe từ từ vào bến. Một người vội vã nhảy xuống. Anh trượt chân, té sấp."
-      ]
+      "vi": "gần, sắp, sát bên"
     },
     {
       "jro": "ngai",
-      "vi": "xa, cách xa",
-      "examples": [
-        "Ngai ngai là nhi ratung ăch me. → Xa xa là nhà tiêu mới.",
-        "GaTrúc bây ŏh Mai khoi saq du ngai: a trong nděh ũnh (đường rầy), daq tanlô (hồ ao), a trong nděh saq (xa-lộ). → Vơn wõng vi cồ yăh nõq vơn lêng. (Chúng ta chọn nơi an toàn mà chơi.)"
-      ]
+      "vi": "xa, cách xa"
     },
     {
       "jro": "lũng",
-      "vi": "lắm, quá, rất",
-      "examples": [
-        "\"Bănh heq pa-am lũng!\" → \"Bánh nầy ngon lắm!\"",
-        "Thầy khen panh: \"Khây ŏh uh lũng. Khây ŏh gựt jơ sên khây păch u nhi trương de.\" → Thầy khen: \"Các em ngoan lắm. Các em biết giữ gìn đồ dùng nhà trường.\"",
-        "Vlam vi candoq, Ngắt pađau gâm nhai bây ŏh panh: \"Nhi heq rung candoq u trong, sâq lũng.\" → Gặp đống rác, Hồng chỉ tay và nói với em: \"Nhà nầy đổ rác ra đường, dơ quá.\""
-      ]
+      "vi": "lắm, quá, rất"
     },
     {
       "jro": "lâm",
-      "vi": "cái, chiếc, cuốn, quả (loại từ)",
-      "examples": [
-        "Õh Nam đăng gěh siraq. Thầy-yáo an ŏh du lâm siraq. → Nam không có vở. Thầy cho em một cuốn.",
-        "Du mat wõq, nděh đò ndây tất. Nděh heq takiq tamuôi. Õh Ngắt bây ŏh Lạc hao nděh bây lăp sũng galăm. Ăp ndu gũq du lâm gê. → Lát sau, một chiếc xe đò khác tới. Xe nầy thưa khách. Hồng và Lạc lên xe bước vào trong. Mỗi em ngồi một ghế.",
-        "Nděh đò tất gatŭq cheq vu jur. Tamun mprăng nděh tangât may. Ăp lâm lapông nděh něh pơq. Ăp ndu saq jur a nděh. → Xe đò đã vào bến. Tài xế tắt máy. Các cửa xe đều mở. Mọi người lần lượt xuống xe."
-      ]
+      "vi": "cái, chiếc, cuốn, quả (loại từ)"
     },
     {
       "jro": "mvu",
-      "vi": "đứa, người, kẻ (loại từ người)",
-      "examples": [
-        "Õh Ngắt bây ŏh Lạc vlam du mintan con se tăm-nchoq. Du mvu chhưl dip tamun cồ saq u trong. → Hồng và Lạc gặp một bọn trẻ đang rượt nhau. Một đứa xô vào một người đi đường.",
-        "Du mvu ndây mprăng lũh vlac candal trong. Du tong nděh jot něh saq tất. Bây něh pâh (thắng) dăn. Noq con se noq něh ntrach ji. → Đứa khác chạy ra giữa đường. Một chiếc xe đạp trờ tới. Xe thắng kịp. Đứa bé thoát khỏi tai nạn.",
-        "Du mvu cô camvĩnh jingo măt chol chhơ gadông cheq wõng trong saq. Khây con se mprăng bây. Khây něh jiloq cô camvĩnh nõq. → Một ông lão mù chống gậy dò đường đi. Mấy đứa trẻ chạy theo. Chúng chế riễu ông."
-      ]
+      "vi": "đứa, người, kẻ (loại từ người)"
     },
     {
       "jro": "ndu",
-      "vi": "người, cá nhân",
-      "examples": [
-        "• Var ndu heq ôp păch lây? Õh cơnh pơch đăng? Luh canoq? → (Hai bạn bẻ cành cây / phá rào: Không nên bắt chước vì làm hỏng cây và rào).",
-        "Yông Pe ji. Õh Ngắt bây ŏh Lạc saq mơq yông. Var ndu khây něh lũh ntrach a nhi. → Dì Ba đau. Hồng và Lạc đi thăm dì. Hai em ra khỏi nhà.",
-        "Var ndu khây něh saq găn ntrach trong măq. Var ndu khây něh saq du maq trong a maq ma. → Hai em sang qua đường cái. Hai em đi sát lề đường bên phải."
-      ]
+      "vi": "người, cá nhân"
     },
     {
       "jro": "tong",
-      "vi": "chiếc, con, cây (loại từ xe, vật)",
-      "examples": [
-        "Du mvu ndây mprăng lũh vlac candal trong. Du tong nděh jot něh saq tất. Bây něh pâh (thắng) dăn. Noq con se noq něh ntrach ji. → Đứa khác chạy ra giữa đường. Một chiếc xe đạp trờ tới. Xe thắng kịp. Đứa bé thoát khỏi tai nạn.",
-        "Du tong nděh lam mơch mprăng. Õh Lạc cơnh hao. Õh Ngắt pâh ŏh sĩq vlâq bây nhai: \"Nděh vênh èn. Vơn cấp nděh alưr wõq.\" → Một chiếc xe lam sắp chạy. Lạc toan bước lên xe. Hồng giữ em lại và nói: \"Xe đã đầy. Ta nên đợi chuyến sau.\"",
-        "Mê bốih nhi. Mê nhũp chổi cồ jong tong. → Mẹ quét nhà. Mẹ dùng chổi cán dài."
-      ]
+      "vi": "chiếc, con, cây (loại từ xe, vật)"
     },
     {
-      "jro": "Ngắt",
-      "vi": "Hồng"
+      "jro": "Ti vơn vơn ôp yah dông.",
+      "vi": "Bài ôn: Tự làm lấy"
     },
     {
-      "jro": "Lạc",
-      "vi": "Lạc"
+      "jro": "\"May mo, anh đăng sa.\"",
+      "vi": "\"Cám ơn, tôi không ăn.\""
+    },
+    {
+      "jro": "Õh Nam nhai: \"Õh may mo Thầy.\"",
+      "vi": "Nam nói: \"Em cám ơn thầy.\""
+    },
+    {
+      "jro": "Vap něh khwai.",
+      "vi": "Ba đang cuốc đất."
+    },
+    {
+      "jro": "Õh Sănh mprăng, něh vông hlâq.",
+      "vi": "Trò Sanh chạy. Em bị té."
+    },
+    {
+      "jro": "Õh Lạc nhai: \"Ơ Thầy, pôp Sănh něh vông hlâq tĩq.\"",
+      "vi": "Lạc nói: \"Thưa thầy, anh Sanh té kìa.\""
+    },
+    {
+      "jro": "\"Khây con vâng sa bănh cồ tăch bây trong.\"",
+      "vi": "\"Các con đừng ăn bánh bán dọc đường.\""
+    },
+    {
+      "jro": "\"Khây ŏh gũq yah jwa rangăp.\"",
+      "vi": "\"Các em hãy giữ im lặng.\""
+    },
+    {
+      "jro": "Khây ganai mprăng tât.",
+      "vi": "Các bạn vội chạy đến."
     },
     {
       "jro": "Đuyh sêch ayh.",
@@ -1970,68 +1023,56 @@
       "vi": "Chải đầu lấy."
     },
     {
-      "jro": "Gâl ao mphla ndây bây chuq yep ayh.",
-      "vi": "Thay quần áo và mang dép lấy."
-    },
-    {
-      "jro": "Taklôn mùng, su, vêl bây ao mphla.",
-      "vi": "Xếp đặt mùng, mền, chiếu và quần áo."
-    },
-    {
-      "jro": "Chẽq siraq yah đắp nđắp.",
-      "vi": "Xếp sách vở gọn gàng."
-    },
-    {
-      "jro": "Ôp ayh",
-      "vi": "Vơn lẽq gěh măq en dơn,"
-    },
-    {
       "jro": "Đăng cơnh vu lây ôp an.",
       "vi": "Đuyh sêch saih sõq gâl ao,"
     },
     {
-      "jro": "Ti vơn vơn ôp yah dông.",
-      "vi": "Bài ôn: Tự làm lấy"
-    },
-    {
-      "jro": "Chúng mình giờ đà khôn lớn,",
-      "vi": "Không muốn luôn luôn phiền ai."
-    },
-    {
-      "jro": "Đánh răng, chải đầu, thay áo,",
-      "vi": "Tay ta làm lấy gọn gàng."
-    },
-    {
-      "jro": "Chih nhai yah camhlăng.",
-      "vi": "Nói năng mạnh dạn."
-    },
-    {
-      "jro": "Nhâng bâng.",
-      "vi": "Thật thà."
-    },
-    {
-      "jro": "Nhai nhâng.",
-      "vi": "Nói thật."
-    },
-    {
-      "jro": "Gěh yah jrõh noq gěh yah camhlăng.",
-      "vi": "Có sạch sẽ mới khỏe mạnh."
-    },
-    {
-      "jro": "Siraq simbūt cheq di gal gatŭq.",
-      "vi": "Sách vở xếp đúng chỗ."
+      "jro": "Vu lây cồ tih? Vu lây cồ gal?",
+      "vi": "Ai đúng? Ai sai?"
     },
     {
       "jro": "Õh cơnh gatũq lây?",
       "vi": "Em thích cảnh nào?"
     },
     {
+      "jro": "Vap ôp păch lây?",
+      "vi": "Ba làm gì?"
+    },
+    {
+      "jro": "Õh heq dê khen ha đăng? Luh canoq?",
+      "vi": "Em bé nầy có đáng khen không? Tại sao?"
+    },
+    {
+      "jro": "Vap nhai bây var ndu con: \"Vâng saq caheq.\"",
+      "vi": "(Ba bảo hai con: \"Không nên đi đứng cách này [cúi khòm/lười biếng].\")"
+    },
+    {
+      "jro": "Õh lu lâh canoq caheq?",
+      "vi": "(Em nghỉ ngơi thế nào?)"
+    },
+    {
+      "jro": "\"Bănh heq pa-am lũng!\"",
+      "vi": "\"Bánh nầy ngon lắm!\""
+    },
+    {
+      "jro": "Ao ŏh Lạc de hec. Mê tavôl sĩq vlâq.",
+      "vi": "Áo Lạc rách. Má khâu lại."
+    },
+    {
+      "jro": "Nhi ŏh Lạc de gěh tamuôi.",
+      "vi": "Nhà Lạc có khách."
+    },
+    {
+      "jro": "Ganai ŏh Lạc de něh tăm-loq.",
+      "vi": "Bạn Lạc đang gây gổ."
+    },
+    {
       "jro": "Vap cơnh ôp.",
       "vi": "Ba làm việc."
     },
     {
-      "jro": "Vap něh khwai.",
-      "vi": "Ba đang cuốc đất."
+      "jro": "Vap tamti ŏh Lạc học.",
+      "vi": "Ba dạy Lạc học."
     },
     {
       "jro": "Mê pih ao mphla.",
@@ -2054,70 +1095,6 @@
       "vi": "Má tắm cho Việt."
     },
     {
-      "jro": "Ao ŏh Lạc de hec. Mê tavôl sĩq vlâq.",
-      "vi": "Áo Lạc rách. Má khâu lại."
-    },
-    {
-      "jro": "Õh Lạc ji.",
-      "vi": "Lạc đau."
-    },
-    {
-      "jro": "Mê an ŏh Lạc huch jrơu.",
-      "vi": "Má cho Lạc uống thuốc."
-    },
-    {
-      "jro": "Mê tamti ŏh Ngắt tanh su.",
-      "vi": "Má dạy Hồng dệt vải."
-    },
-    {
-      "jro": "Vap tamti ŏh Lạc học.",
-      "vi": "Ba dạy Lạc học."
-    },
-    {
-      "jro": "Vap ôp sĩq vlâq lapông.",
-      "vi": "Ba sửa cánh cửa hư."
-    },
-    {
-      "jro": "Vap tatâm nhi.",
-      "vi": "Ba sửa mái nhà."
-    },
-    {
-      "jro": "Vap ôp păch lây?",
-      "vi": "Ba làm gì?"
-    },
-    {
-      "jro": "- Mê tamti tanh su (Má dạy con dệt vải).",
-      "vi": "- Mê an con huch jrơu / siêm con (Má đút cháo/thuốc cho con)."
-    },
-    {
-      "jro": "Õh Lạc dợp goq an cô iưn.",
-      "vi": "Lạc đưa ống điếu cho ông."
-    },
-    {
-      "jro": "Õh Ngắt dợp li daq an un iưn.",
-      "vi": "Hồng đưa bầu nước uống cho bà."
-    },
-    {
-      "jro": "\"Bănh heq pa-am lũng!\"",
-      "vi": "\"Bánh nầy ngon lắm!\""
-    },
-    {
-      "jro": "\"May mo, anh đăng sa.\"",
-      "vi": "\"Cám ơn, tôi không ăn.\""
-    },
-    {
-      "jro": "Nhi ŏh Lạc de gěh tamuôi.",
-      "vi": "Nhà Lạc có khách."
-    },
-    {
-      "jro": "\"Con saq cuôl vap sĩq roc tamuôi.\"",
-      "vi": "\"Con mời ba về tiếp khách.\""
-    },
-    {
-      "jro": "\"Ơ vap, nhi gěh tamuôi.\"",
-      "vi": "\"Thưa ba, có khách ạ!\""
-    },
-    {
       "jro": "\"Saq cuôl pôp Ngắt sĩq mê cơnh!\"",
       "vi": "\"Đi gọi Hồng về cho má!\""
     },
@@ -2126,20 +1103,32 @@
       "vi": "\"Chị ơi! Má kêu. Chị về liền nhé!\""
     },
     {
-      "jro": "Õh Ngắt bây ŏh Lạc ôp tăm-ôp bây mê vap.",
-      "vi": "Hồng và Lạc giúp đỡ ba má."
+      "jro": "- Mê tamti tanh su (Má dạy con dệt vải).",
+      "vi": "- Mê an con huch jrơu / siêm con (Má đút cháo/thuốc cho con)."
     },
     {
-      "jro": "Õh Ngắt rao ti an ŏh iưn.",
-      "vi": "Hồng rửa tay cho em."
+      "jro": "\"Con saq cuôl vap sĩq roc tamuôi.\"",
+      "vi": "\"Con mời ba về tiếp khách.\""
     },
     {
-      "jro": "Õh Lạc siêm ŏh sa piêng.",
-      "vi": "Lạc cho em ăn."
+      "jro": "Yáo yiêng tamti con se lêng.",
+      "vi": "Thầy hướng dẫn học sinh chơi."
     },
     {
-      "jro": "Õh heq dê khen ha đăng? Luh canoq?",
-      "vi": "Em bé nầy có đáng khen không? Tại sao?"
+      "jro": "Õh Ngắt dợp li daq an un iưn.",
+      "vi": "Hồng đưa bầu nước uống cho bà."
+    },
+    {
+      "jro": "Õh Lạc dợp goq an cô iưn.",
+      "vi": "Lạc đưa ống điếu cho ông."
+    },
+    {
+      "jro": "Õh Ngắt, ŏh Lạc bây ganai chào Thầy.",
+      "vi": "Hồng, Lạc và các bạn chào thầy."
+    },
+    {
+      "jro": "Thầy-yáo ji. Õh Lạc bây ganai saq mơq Thầy-yáo.",
+      "vi": "Thầy đau. Lạc và các bạn đến thăm thầy."
     },
     {
       "jro": "Thầy-yáo tamti ŏh Lạc yiệt.",
@@ -2154,64 +1143,588 @@
       "vi": "Thầy kể chuyện."
     },
     {
-      "jro": "U nhi, Thầy-yáo ôp vruq tật nặc năng.",
-      "vi": "Ở nhà, thầy làm việc đến khuya."
+      "jro": "GaTrúc wĩnh bây yáo yiêng an ŏh Mai lu học.",
+      "vi": "Trúc xin phép cho Mai nghỉ học."
     },
     {
-      "jro": "Õh Nam nhai: \"Õh may mo Thầy.\"",
-      "vi": "Nam nói: \"Em cám ơn thầy.\""
+      "jro": "Học sĩnh chào cờ.",
+      "vi": "Khây ŏh tao yaq yăh sõng."
     },
     {
-      "jro": "Yáo yiêng tamti con se lêng.",
-      "vi": "Thầy hướng dẫn học sinh chơi."
+      "jro": "\"Ơ vap, nhi gěh tamuôi.\"",
+      "vi": "\"Thưa ba, có khách ạ!\""
     },
     {
-      "jro": "\"Khây ŏh gũq yah jwa rangăp.\"",
-      "vi": "\"Các em hãy giữ im lặng.\""
+      "jro": "Heq là Cảnh-Sát.",
+      "vi": "Đây là Cảnh-sát-viên."
     },
     {
-      "jro": "Õh Ngắt, ŏh Lạc bây ganai chào Thầy.",
-      "vi": "Hồng, Lạc và các bạn chào thầy."
+      "jro": "Cảnh-Sát yúp đở vơn. Něh la ganai vơn de.",
+      "vi": "Cảnh-sát-viên giúp đỡ chúng ta. Cảnh-sát-viên là bạn chúng ta."
     },
     {
-      "jro": "Lẽq sũng lớp gũq jwa lẽq cheq ôp bai.",
-      "vi": "Cả lớp im lặng làm bài."
+      "jro": "Y-Tá tăm play an GaTrúc iưn.",
+      "vi": "Cô y tá chủng đậu cho Trúc."
     },
     {
-      "jro": "Õh Sănh mprăng, něh vông hlâq.",
-      "vi": "Trò Sanh chạy. Em bị té."
+      "jro": "GaTrúc lơ vôq ti jrõh.",
+      "vi": "Trúc khoe tay sạch."
     },
     {
-      "jro": "Khây ganai mprăng tât.",
-      "vi": "Các bạn vội chạy đến."
+      "jro": "Õh Mai lơ vôq jâng jrõh.",
+      "vi": "Mai khoe chân sạch."
     },
     {
-      "jro": "Õh Lạc saq wõng Thầy-yáo.",
-      "vi": "Lạc đi tìm thầy."
+      "jro": "Õh Mai saih sõq.",
+      "vi": "Mai chải đầu."
+    },
+    {
+      "jro": "Sõq GaTrúc de něh căt dêh.",
+      "vi": "(Tóc Trúc được hớt ngắn.)"
+    },
+    {
+      "jro": "Õh Mai huch văt nseng muh.",
+      "vi": "Mai quên dùng khăn tay."
+    },
+    {
+      "jro": "GaTrúc khoi huch văt nseng muh.",
+      "vi": "Trúc quên dùng khăn tay."
+    },
+    {
+      "jro": "Õh Mai nhup nseng cheq chhêr muh.",
+      "vi": "Mai dùng khăn tay hỉ mũi."
+    },
+    {
+      "jro": "Chúng mình giờ đà khôn lớn,",
+      "vi": "Không muốn luôn luôn phiền ai."
+    },
+    {
+      "jro": "Õh Mai đuyh sêch.",
+      "vi": "Mai đánh răng."
+    },
+    {
+      "jro": "GaTrúc đuyh sêch.",
+      "vi": "Trúc đánh răng."
+    },
+    {
+      "jro": "Õh Ngắt rao ti an ŏh iưn.",
+      "vi": "Hồng rửa tay cho em."
+    },
+    {
+      "jro": "So vĩq mơch jâng GaTrúc de.",
+      "vi": "Con Mực nằm ngủ gần chân Trúc."
+    },
+    {
+      "jro": "Ơ Mai! Vâng đức tiêng meo.",
+      "vi": "Mai ơi! Đừng kéo đuôi mèo."
+    },
+    {
+      "jro": "Gâl ao mphla ndây bây chuq yep ayh.",
+      "vi": "Thay quần áo và mang dép lấy."
+    },
+    {
+      "jro": "Taklôn mùng, su, vêl bây ao mphla.",
+      "vi": "Xếp đặt mùng, mền, chiếu và quần áo."
+    },
+    {
+      "jro": "Mê dăng mùng.",
+      "vi": "Mẹ buông mùng."
+    },
+    {
+      "jro": "Mê tamti ŏh Ngắt tanh su.",
+      "vi": "Má dạy Hồng dệt vải."
+    },
+    {
+      "jro": "Chẽq siraq yah đắp nđắp.",
+      "vi": "Xếp sách vở gọn gàng."
+    },
+    {
+      "jro": "Siraq simbūt cheq di gal gatŭq.",
+      "vi": "Sách vở xếp đúng chỗ."
+    },
+    {
+      "jro": "Ganai ŏh Lạc de chêr phấn vlơ bàng.",
+      "vi": "Bạn Lạc vẽ phấn trên bàn."
+    },
+    {
+      "jro": "GaTrúc jut bàng gê.",
+      "vi": "Trúc lau bàn ghế."
+    },
+    {
+      "jro": "Vap ôp sĩq vlâq lapông.",
+      "vi": "Ba sửa cánh cửa hư."
+    },
+    {
+      "jro": "Õh Lạc dônh pa-ar kẹo. Õh doq sũng thùng rác.",
+      "vi": "Lạc lượm giấy bọc kẹo. Em bỏ vào giỏ rác."
+    },
+    {
+      "jro": "Õh Bĩnh hwât candoq lăp sũng daq ntu.",
+      "vi": "Bình vứt rác vào giếng nước."
+    },
+    {
+      "jro": "Õh Lạc bây ganai lêng \"Nhup nseng\".",
+      "vi": "Lạc cùng bạn chơi \"cướp cờ\"."
+    },
+    {
+      "jro": "GaTrúc bây ŏh Mai rao ti a daq jrõh bây simbong.",
+      "vi": "(Trúc, Mai rửa tay bằng nước sạch và xà bông.)"
+    },
+    {
+      "jro": "Mê an ŏh Lạc huch jrơu.",
+      "vi": "Má cho Lạc uống thuốc."
+    },
+    {
+      "jro": "• Jrơu cồ đuyh sêch",
+      "vi": "Thuốc đánh răng"
+    },
+    {
+      "jro": "Cơnh ntrach a ji côr, nõq vrõh jrơu D.D.T.",
+      "vi": "Muốn tránh bệnh tật nên xịt thuốc D.D.T."
+    },
+    {
+      "jro": "Ôp en GaTrúc cheq prăp to sĩq vlâq.",
+      "vi": "Dùng xong, Trúc cất dao vào hộp."
+    },
+    {
+      "jro": "Õh Mai nhup kéo chit pa-ar.",
+      "vi": "Mai dùng kéo cắt giấy."
+    },
+    {
+      "jro": "Ga Tư sa kẹo. Něh hwât pa-ar kẹo sũng lớp.",
+      "vi": "Trò Tư ăn kẹo. Em xả giấy bọc kẹo ra lớp."
+    },
+    {
+      "jro": "Mê bốih nhi. Mê nhũp chổi cồ jong tong.",
+      "vi": "Mẹ quét nhà. Mẹ dùng chổi cán dài."
+    },
+    {
+      "jro": "Vap tatâm nhi.",
+      "vi": "Ba sửa mái nhà."
+    },
+    {
+      "jro": "Nhi ratung ăch heq me ôp.",
+      "vi": "Một nhà tiêu mới xây."
+    },
+    {
+      "jro": "Avôq palây gěh nhi trương.",
+      "vi": "Đầu làng có trường Tiểu học."
+    },
+    {
+      "jro": "Palây vơn jrõh bây rom.",
+      "vi": "Làng ta sạch và đẹp."
+    },
+    {
+      "jro": "GaTrúc bây ŏh Mai saq a maq trong.",
+      "vi": "Trúc và Mai đi trên lề đường."
+    },
+    {
+      "jro": "Lũh trong, saq a maq trong,",
+      "vi": "Cảnh-Sát cồ nhâng ganai vơn de."
+    },
+    {
+      "jro": "Daq ntu cồ daq huch,",
+      "vi": "Gěh gâm khlŭh bay jrõh."
+    },
+    {
+      "jro": "Daq tanlô sâq, huch đăng gěh.",
+      "vi": "Nước ao bẩn, không uống được."
+    },
+    {
+      "jro": "Daq tanlô něh sâq lũng,",
+      "vi": "Něh ôp an vơn ji."
+    },
+    {
+      "jro": "Alưr nhi gěh rông tơm play chhơ.",
+      "vi": "Sau nhà có vườn cây trái."
+    },
+    {
+      "jro": "Vơn saq lêng sũng rông play,",
+      "vi": "Ngai daq cồ jru, ngai trong gõq nděh."
+    },
+    {
+      "jro": "- Vap tatâm talong (Ba rào lại hàng rào tre).",
+      "vi": "Mê ôp păch lây? (Má làm gì?)"
+    },
+    {
+      "jro": "Õh Ngắt nhai: \"Tao yaq u vi nõq đê phũng lũng.\"",
+      "vi": "Chiếc xe đò ngừng lại. Lạc giục chị lên xe. Hồng bảo: \"Xe chật, đâu còn chỗ.\""
+    },
+    {
+      "jro": "Õh Lạc siêm ŏh sa piêng.",
+      "vi": "Lạc cho em ăn."
+    },
+    {
+      "jro": "• Rao ti, tu mặt lor a sa piêng.",
+      "vi": "(Rửa tay, rửa mặt trước khi ăn.)"
+    },
+    {
+      "jro": "Õh Mai krêng sa piêng. Něh sa por.",
+      "vi": "Mai kiêng cơm. Mai ăn cháo."
+    },
+    {
+      "jro": "GaTrúc cơnh sa ayh ca.",
+      "vi": "Trúc chỉ thích ăn cá."
+    },
+    {
+      "jro": "Mê ôp ca. Mê rao ca dijrõh.",
+      "vi": "Mẹ làm cá. Mẹ rửa cá thật sạch."
+    },
+    {
+      "jro": "Õh Mai cơnh sa ayh gong.",
+      "vi": "Mai chỉ ưa ăn thịt."
+    },
+    {
+      "jro": "Õh Mai sach pai bây hwât la cồ jrùng sa, nggâm ro.",
+      "vi": "Mai nhặt rau, bỏ lá sâu, lá úa."
+    },
+    {
+      "jro": "GaTrúc rao pai diyah a daq cồ jrõh.",
+      "vi": "Trúc rửa kỹ rau bằng nước sạch."
+    },
+    {
+      "jro": "Khây ŏh ndây lêng play bănh.",
+      "vi": "Các em khác chuyền banh."
+    },
+    {
+      "jro": "Sa kẹo gõq něh ji sêch.",
+      "vi": "Ăn nhiều kẹo hại răng."
+    },
+    {
+      "jro": "Ôp gõq mreq něh hơr lũng.",
+      "vi": "Nhiều ớt cay quá!"
+    },
+    {
+      "jro": "• Vŏh",
+      "vi": "Muối"
+    },
+    {
+      "jro": "Daq măm ntiêt lũng, ơ. Con tuh du dệt en.",
+      "vi": "Nước mắm mặn lắm đấy! Con rót một chút thôi."
+    },
+    {
+      "jro": "Õh Lạc lũh tu ling cheq vrăch daq ju.",
+      "vi": "Lạc ho."
+    },
+    {
+      "jro": "Õh Ngắt bây ŏh Lạc troq tơm chhơ bây vap.",
+      "vi": "Hồng và Lạc cùng tưới cây với cha."
+    },
+    {
+      "jro": "Gõq nhi gěh tơm chhơ.",
+      "vi": "Nhiều nhà có vườn cây."
+    },
+    {
+      "jro": "Õh Mai doq ncao. Bình ncao rom lũng.",
+      "vi": "Mai cắm hoa. Bình hoa đẹp quá!"
+    },
+    {
+      "jro": "Gapu viq võq.",
+      "vi": "Trâu đầm / nằm vũng."
+    },
+    {
+      "jro": "Tamun bây bo gapu gũq lu.",
+      "vi": "Người và vật đều nghỉ."
+    },
+    {
+      "jro": "Hình ảnh so sánh tư thế đúng và sai:",
+      "vi": "1. Mút ngón tay / Cắn móng tay (Sai) vs Ngồi đọc sách ngay ngắn (Đúng)"
+    },
+    {
+      "jro": "Rawây, moih, cane uěh rih u vi heq.",
+      "vi": "Ruồi, muỗi, chuột ưa sống nơi đây."
+    },
+    {
+      "jro": "Rawây, moih, cane dợp gõq sinlơ ji an vơn iưn.",
+      "vi": "Ruồi, muỗi, chuột truyền nhiều bệnh cho ta."
+    },
+    {
+      "jro": "Moih cắp jâng ŏh Mai de.",
+      "vi": "Muỗi đốt chân Mai."
+    },
+    {
+      "jro": "GaTrúc tap moih.",
+      "vi": "Trúc đập muỗi."
+    },
+    {
+      "jro": "Mê dah moih.",
+      "vi": "Mẹ xua muỗi."
+    },
+    {
+      "jro": "4. Gãi ngứa làm xước da",
+      "vi": "Sai) vs Rửa ráy sạch sẽ (Đúng"
+    },
+    {
+      "jro": "Da re daq.",
+      "vi": "Vịt tắm."
+    },
+    {
+      "jro": "Lêng vi heq đăng phùng nděh jot.",
+      "vi": "Chơi trong vườn không bị xe cán."
+    },
+    {
+      "jro": "Õh Mai vĩq yăh lốc.",
+      "vi": "(Mai ngủ ngon-lành.)"
+    },
+    {
+      "jro": "GaTrúc bây Mai căh amoq.",
+      "vi": "Trúc và Mai dậy sớm."
+    },
+    {
+      "jro": "Khây ŏh căh tôr:",
+      "vi": "(Các em nhớ:)"
+    },
+    {
+      "jro": "Õh Mai viq lor. Õh Mai căh lor.",
+      "vi": "Mai ngủ sớm. Mai dậy sớm."
+    },
+    {
+      "jro": "Năr tamvôp ŏh Mai viq lu.",
+      "vi": "Buổi trưa, Mai nằm ngủ."
     },
     {
       "jro": "\"Lạc, an Nam hao du dệt vòh.\"",
       "vi": "\"Lạc cho Nam đu một lát đi!\""
     },
     {
-      "jro": "Õh Lạc cheq an ŏh Nam iưn.",
-      "vi": "Lạc nhường đu cho Nam."
+      "jro": "Õh Mai rao ti.",
+      "vi": "Mai rửa tay."
     },
     {
-      "jro": "Ganai ŏh Lạc de něh tăm-loq.",
-      "vi": "Bạn Lạc đang gây gổ."
+      "jro": "GaTrúc ũm.",
+      "vi": "Trúc tắm."
     },
     {
-      "jro": "Õh Lạc pâh.",
-      "vi": "Lạc can-ngăn."
+      "jro": "Ũm en GaTrúc chuq ao mphla yăh jrõh.",
+      "vi": "(Tắm xong, Trúc thay quần áo sạch.)"
+    },
+    {
+      "jro": "Mê pih vôq an ŏh Mai iưn.",
+      "vi": "(Mẹ gội đầu cho Mai.)"
+    },
+    {
+      "jro": "Mê pih ao mphla an GaTrúc iưn.",
+      "vi": "(Mẹ giặt quần áo cho Trúc.)"
+    },
+    {
+      "jro": "Sõq var ndu de saih dê dông.",
+      "vi": "(Tóc hai em chải gọn.)"
+    },
+    {
+      "jro": "Vơn tăm-dônh pa-ar.",
+      "vi": "Ta cùng nhặt giấy rác."
+    },
+    {
+      "jro": "Chih nhai yah camhlăng.",
+      "vi": "Nói năng mạnh dạn."
+    },
+    {
+      "jro": "Nhai nhâng.",
+      "vi": "Nói thật."
     },
     {
       "jro": "Õh Lạc bây ganai lêng yah vui.",
       "vi": "Lạc và các bạn chơi đùa vui vẻ."
     },
     {
-      "jro": "Õh Lạc bây ganai lêng \"Nhup nseng\".",
-      "vi": "Lạc cùng bạn chơi \"cướp cờ\"."
+      "jro": "GaTrúc pãnh bi.",
+      "vi": "Trúc đánh bi / bắn đạn."
+    },
+    {
+      "jro": "Sa ayh var pe lâm choh.",
+      "vi": "Ăn vài cái thôi."
+    },
+    {
+      "jro": "Vâng pâm khây con sũng nhi,",
+      "vi": "Jơ ntrách chứt ji cồ gěh ăp năr."
+    },
+    {
+      "jro": "Õh Ngắt bây ŏh Lạc ôp tăm-ôp bây mê vap.",
+      "vi": "Hồng và Lạc giúp đỡ ba má."
+    },
+    {
+      "jro": "Õh gěh ôp păch lây chẽq tăm-ôp bây mê?",
+      "vi": "(Em đã làm gì giúp mẹ?)"
+    },
+    {
+      "jro": "Õh Lạc pâh.",
+      "vi": "Lạc can-ngăn."
+    },
+    {
+      "jro": "GaTrúc chăch ti něh saq wõng mê.",
+      "vi": "Trúc đứt tay; em đi tìm mẹ."
+    },
+    {
+      "jro": "Canoq đăng phùng chăch ti.",
+      "vi": "Như thế không sợ nguy-hiểm."
+    },
+    {
+      "jro": "GaTrúc vông hlâq.",
+      "vi": "Trúc ngã."
+    },
+    {
+      "jro": "Ăp ndu tăm-siêr saq tăm play.",
+      "vi": "Mọi người rủ nhau ra tiêm chủng."
+    },
+    {
+      "jro": "Khây ŏh ndây khoi gěh chích bây tăm play.",
+      "vi": "Các em khác đều được tiêm và chủng đậu."
+    },
+    {
+      "jro": "Nõq vơn phải tachựt něh.",
+      "vi": "Cần phải diệt chúng."
+    },
+    {
+      "jro": "GaTrúc pre ŏh Mai.",
+      "vi": "Trúc đánh thức Mai."
+    },
+    {
+      "jro": "Õh Mai racoh mĩnh.",
+      "vi": "Mai súc miệng."
+    },
+    {
+      "jro": "Õh Lạc saq wõng Thầy-yáo.",
+      "vi": "Lạc đi tìm thầy."
+    },
+    {
+      "jro": "Ăp ndu wõng du sinlơ cheq lêng.",
+      "vi": "(Mỗi em chọn một trò chơi.)"
+    },
+    {
+      "jro": "Tamun heq têch ŏh Mai a găn trong.",
+      "vi": "Người này dắt Mai qua đường."
+    },
+    {
+      "jro": "En mê iau GaTrúc saq tu nhi ji.",
+      "vi": "Rồi mẹ dẫn Trúc đến trạm cứu thương [TRẠM CỨU THƯƠNG]."
+    },
+    {
+      "jro": "Nõq GaTrúc něh uěh meo khwach, so cắp.",
+      "vi": "Cho nên Trúc hay bị mèo cào, chó cắn."
+    },
+    {
+      "jro": "So cắp GaTrúc, GaTrúc cuôl mê. Mê dah so saq.",
+      "vi": "Trúc bị chó cắn, Trúc kêu cứu. Mẹ lại xua chó đi."
+    },
+    {
+      "jro": "Gěh yah jrõh noq gěh yah camhlăng.",
+      "vi": "Có sạch sẽ mới khỏe mạnh."
+    },
+    {
+      "jro": "Ao mphla ayh sâq.",
+      "vi": "Quần áo em lấm."
+    },
+    {
+      "jro": "GŨQ YAH JRÕH YAH CAMHLĂNG, LỚP 1",
+      "vi": "Vệ sinh Lớp Năm (Lớp Một)"
+    },
+    {
+      "jro": "Daq jrõh huch yăh pa-ăm. Huch daq sâq dê gěh ji.",
+      "vi": "(Nước sạch uống mới tốt. Uống nước bẩn dễ mắc bệnh.)"
+    },
+    {
+      "jro": "Play dŭm něh pa-ăm bây bổ wõq.",
+      "vi": "Quả chín vừa bổ vừa ngon."
+    },
+    {
+      "jro": "Õh cơnh play lây dông?",
+      "vi": "(Em chọn thứ quả nào?)"
+    },
+    {
+      "jro": "Avôq nhi gěh ntěh hwi.",
+      "vi": "Trước nhà có sân rộng."
+    },
+    {
+      "jro": "Nhi trương yăh hwi bây yăh lahợt.",
+      "vi": "Trường rộng và thoáng."
+    },
+    {
+      "jro": "Nhi jrõh bây yăh lahợt.",
+      "vi": "Nhà sạch và mát."
+    },
+    {
+      "jro": "Nhi trương vơn jrõh bây lahợt.",
+      "vi": "Trường ta sạch và mát."
+    },
+    {
+      "jro": "Khây thùng heq vênh ayh candoq.",
+      "vi": "Những thùng này đầy rác rưởi."
+    },
+    {
+      "jro": "Play hwŭt něh sat bây chot.",
+      "vi": "Quả xanh chua hoặc chát."
+    },
+    {
+      "jro": "Daq cồ gěh gâm khlŭh bây chẽq la-ah.",
+      "vi": "Nước lọc đã đun sôi để nguội."
+    },
+    {
+      "jro": "Lẽq sũng lớp gũq jwa lẽq cheq ôp bai.",
+      "vi": "Cả lớp im lặng làm bài."
+    },
+    {
+      "jro": "En nõq khây ŏh sô măq!",
+      "vi": "Rồi các em sẽ lớn trông thấy!"
+    },
+    {
+      "jro": "- Bạn bỏ giấy vào sọt rác: Đúng (Gal).",
+      "vi": "- Bạn lau bàn sạch: Đúng (Gal)."
+    },
+    {
+      "jro": "- Bạn vẽ bậy lên tường: Sai (Tih).",
+      "vi": "- Bạn xô đẩy khi xếp hàng: Sai (Tih)."
+    },
+    {
+      "jro": "Nhâng bâng.",
+      "vi": "Thật thà."
+    },
+    {
+      "jro": "Lor a war sa GaTrúc sa tangơi.",
+      "vi": "Trúc ăn bắp trước bữa cơm."
+    },
+    {
+      "jro": "U nhi, Thầy-yáo ôp vruq tật nặc năng.",
+      "vi": "Ở nhà, thầy làm việc đến khuya."
+    },
+    {
+      "jro": "Ti GaTrúc de yăh jrõh. Ti Mai de khoi yăh jrõh.",
+      "vi": "(Bàn tay Trúc sạch. Bàn tay Mai cũng sạch.)"
+    },
+    {
+      "jro": "Vap khoi saq bây ŏh Trúc nggâm ŏh Mai.",
+      "vi": "(Ba cũng đi với Trúc và Mai.)"
+    },
+    {
+      "jro": "Õh Lạc cheq an ŏh Nam iưn.",
+      "vi": "Lạc nhường đu cho Nam."
+    },
+    {
+      "jro": "• Alưr sa, rao ti, tu sĩq vlâq mặt, đuyh sêch.",
+      "vi": "(Sau khi ăn, rửa tay, lại rửa mặt, đánh răng.)"
+    },
+    {
+      "jro": "Ngai ngai là nhi ratung ăch me.",
+      "vi": "Xa xa là nhà tiêu mới."
+    },
+    {
+      "jro": "Ngắt",
+      "vi": "Hồng"
+    },
+    {
+      "jro": "Lạc",
+      "vi": "Lạc"
+    },
+    {
+      "jro": "Ôp ayh",
+      "vi": "Vơn lẽq gěh măq en dơn,"
+    },
+    {
+      "jro": "Đánh răng, chải đầu, thay áo,",
+      "vi": "Tay ta làm lấy gọn gàng."
+    },
+    {
+      "jro": "Õh Lạc ji.",
+      "vi": "Lạc đau."
     },
     {
       "jro": "Ganai ŏh Lạc de něh nchoq bây.",
@@ -2220,10 +1733,6 @@
     {
       "jro": "Thầy nhai: \"Maq ŏh Lạc de sa.\"",
       "vi": "Thầy nói: \"Toán của Lạc thắng.\""
-    },
-    {
-      "jro": "Học sĩnh chào cờ.",
-      "vi": "Khây ŏh tao yaq yăh sõng."
     },
     {
       "jro": "Khây ŏh hat didip.",
@@ -2254,32 +1763,8 @@
       "vi": "Õh wĩnh bây Thầy cheq lũh tu ling vrăch daq ju."
     },
     {
-      "jro": "Õh Lạc lũh tu ling cheq vrăch daq ju.",
-      "vi": "Lạc ho."
-    },
-    {
       "jro": "Em xin phép thầy ra ngoài để khạc nhổ.",
       "vi": "Lạc ra ngoài nhổ."
-    },
-    {
-      "jro": "Ganai ŏh Lạc de chêr phấn vlơ bàng.",
-      "vi": "Bạn Lạc vẽ phấn trên bàn."
-    },
-    {
-      "jro": "Vu lây cồ tih? Vu lây cồ gal?",
-      "vi": "Ai đúng? Ai sai?"
-    },
-    {
-      "jro": "- Bạn bỏ giấy vào sọt rác: Đúng (Gal).",
-      "vi": "- Bạn lau bàn sạch: Đúng (Gal)."
-    },
-    {
-      "jro": "- Bạn vẽ bậy lên tường: Sai (Tih).",
-      "vi": "- Bạn xô đẩy khi xếp hàng: Sai (Tih)."
-    },
-    {
-      "jro": "Õh Bĩnh hwât candoq lăp sũng daq ntu.",
-      "vi": "Bình vứt rác vào giếng nước."
     },
     {
       "jro": "• Õh saq a maq [ma] (Em đi bên [phải]).",
@@ -2290,20 +1775,12 @@
       "vi": "Hồng đáp: \"Đứng ở bậc xe nguy hiểm lắm, em ạ!\""
     },
     {
-      "jro": "GŨQ YAH JRÕH YAH CAMHLĂNG, LỚP 1",
-      "vi": "Vệ sinh Lớp Năm (Lớp Một)"
-    },
-    {
       "jro": "Var ndu heq ganai vơn de:",
       "vi": "Heq là ŏh Mai bây ŏh Trúc."
     },
     {
       "jro": "Hai Bạn Mới Của Ta:",
       "vi": "Đây là em Mai và đây là anh Trúc."
-    },
-    {
-      "jro": "GaTrúc pre ŏh Mai.",
-      "vi": "Trúc đánh thức Mai."
     },
     {
       "jro": "GaTrúc saq nggô.",
@@ -2314,36 +1791,16 @@
       "vi": "Trúc rửa mặt."
     },
     {
-      "jro": "Õh Mai đuyh sêch.",
-      "vi": "Mai đánh răng."
-    },
-    {
-      "jro": "Õh Mai saih sõq.",
-      "vi": "Mai chải đầu."
-    },
-    {
       "jro": "GaTrúc bây ŏh Mai saq học.",
       "vi": "Trúc, Mai đi học."
     },
     {
-      "jro": "Nhi ratung ăch heq me ôp.",
-      "vi": "Một nhà tiêu mới xây."
+      "jro": "GaTrúc bây ŏh Mai jơ nhi ratung ăch yăh jrõh.",
+      "vi": "Trúc và Mai giữ gìn nhà tiêu sạch."
     },
     {
       "jro": "Ăp nđôi ŏh mơng saq nggô.",
       "vi": "Em quen đi tiêu mỗi sáng."
-    },
-    {
-      "jro": "GaTrúc đuyh sêch.",
-      "vi": "Trúc đánh răng."
-    },
-    {
-      "jro": "Õh Mai racoh mĩnh.",
-      "vi": "Mai súc miệng."
-    },
-    {
-      "jro": "• Jrơu cồ đuyh sêch",
-      "vi": "Thuốc đánh răng"
     },
     {
       "jro": "• Bàng chải",
@@ -2354,64 +1811,16 @@
       "vi": "Than"
     },
     {
-      "jro": "• Vŏh",
-      "vi": "Muối"
-    },
-    {
       "jro": "Õh uěh đuyh sêch a păch lây?",
       "vi": "(Em thường đánh răng bằng gì?)"
-    },
-    {
-      "jro": "Õh Mai rao ti.",
-      "vi": "Mai rửa tay."
-    },
-    {
-      "jro": "GaTrúc lơ vôq ti jrõh.",
-      "vi": "Trúc khoe tay sạch."
-    },
-    {
-      "jro": "Õh Mai lơ vôq jâng jrõh.",
-      "vi": "Mai khoe chân sạch."
     },
     {
       "jro": "Mê nhai: \"Var ndu con yăh jrõh lũng.\"",
       "vi": "(Mẹ khen: \"Hai con sạch sẽ lắm!\")"
     },
     {
-      "jro": "Sõq GaTrúc de něh căt dêh.",
-      "vi": "(Tóc Trúc được hớt ngắn.)"
-    },
-    {
-      "jro": "Mê pih vôq an ŏh Mai iưn.",
-      "vi": "(Mẹ gội đầu cho Mai.)"
-    },
-    {
-      "jro": "Sõq var ndu de saih dê dông.",
-      "vi": "(Tóc hai em chải gọn.)"
-    },
-    {
-      "jro": "GaTrúc ũm.",
-      "vi": "Trúc tắm."
-    },
-    {
-      "jro": "GaTrúc vông hlâq.",
-      "vi": "Trúc ngã."
-    },
-    {
-      "jro": "Ao mphla ayh sâq.",
-      "vi": "Quần áo em lấm."
-    },
-    {
-      "jro": "Mê pih ao mphla an GaTrúc iưn.",
-      "vi": "(Mẹ giặt quần áo cho Trúc.)"
-    },
-    {
-      "jro": "Ũm en GaTrúc chuq ao mphla yăh jrõh.",
-      "vi": "(Tắm xong, Trúc thay quần áo sạch.)"
-    },
-    {
-      "jro": "Hình ảnh so sánh tư thế đúng và sai:",
-      "vi": "1. Mút ngón tay / Cắn móng tay (Sai) vs Ngồi đọc sách ngay ngắn (Đúng)"
+      "jro": "Var ndu ŏh heq jơ sõq bây ntô vôq yăh jrõh.",
+      "vi": "(Hai em giữ sạch tóc và da đầu.)"
     },
     {
       "jro": "2. Đọc sách cúi gằm mặt quá gần",
@@ -2422,32 +1831,12 @@
       "vi": "Sai) vs Cầm bút viết đúng tư thế (Đúng"
     },
     {
-      "jro": "4. Gãi ngứa làm xước da",
-      "vi": "Sai) vs Rửa ráy sạch sẽ (Đúng"
-    },
-    {
-      "jro": "Õh Mai huch văt nseng muh.",
-      "vi": "Mai quên dùng khăn tay."
-    },
-    {
-      "jro": "GaTrúc khoi huch văt nseng muh.",
-      "vi": "Trúc quên dùng khăn tay."
-    },
-    {
       "jro": "Mê an var ndu var păng nseng bây panh:",
       "vi": "\"Khây con căh nhup nseng muh lăm gatayh ha chhêr muh.\""
     },
     {
       "jro": "(Mẹ cho mỗi em một khăn tay và bảo:",
       "vi": "\"Các con nhớ dùng khăn tay khi hắt hơi hay hỉ mũi.\")"
-    },
-    {
-      "jro": "Gapu viq võq.",
-      "vi": "Trâu đầm / nằm vũng."
-    },
-    {
-      "jro": "Da re daq.",
-      "vi": "Vịt tắm."
     },
     {
       "jro": "Phải uěh ũm tu dijrõh.",
@@ -2490,10 +1879,6 @@
       "vi": "Nào có khó khăn gì, gì, gì.)"
     },
     {
-      "jro": "GaTrúc bây Mai căh amoq.",
-      "vi": "Trúc và Mai dậy sớm."
-    },
-    {
       "jro": "GaTrúc tập thể-yặc.",
       "vi": "Trúc tập thể dục."
     },
@@ -2506,10 +1891,6 @@
       "vi": "(Chiều Trúc và Mai đi chơi.)"
     },
     {
-      "jro": "Vap khoi saq bây ŏh Trúc nggâm ŏh Mai.",
-      "vi": "(Ba cũng đi với Trúc và Mai.)"
-    },
-    {
       "jro": "Phải saq dân tamun nõq.",
       "vi": "(Nên đi đứng ngay thẳng như người kia.)"
     },
@@ -2518,64 +1899,16 @@
       "vi": "(Cha con cùng đi chơi.)"
     },
     {
-      "jro": "GaTrúc pãnh bi.",
-      "vi": "Trúc đánh bi / bắn đạn."
-    },
-    {
-      "jro": "Khây ŏh ndây lêng play bănh.",
-      "vi": "Các em khác chuyền banh."
-    },
-    {
       "jro": "Õh Mai lêng nchhật khec nkhec.",
       "vi": "Mai chơi đáo đầm / nhảy lò cò đánh nhà."
-    },
-    {
-      "jro": "Ăp ndu wõng du sinlơ cheq lêng.",
-      "vi": "(Mỗi em chọn một trò chơi.)"
     },
     {
       "jro": "Õh cơnh lêng păch lây?",
       "vi": "(Em ưa trò chơi nào?)"
     },
     {
-      "jro": "Tamun bây bo gapu gũq lu.",
-      "vi": "Người và vật đều nghỉ."
-    },
-    {
-      "jro": "Năr tamvôp ŏh Mai viq lu.",
-      "vi": "Buổi trưa, Mai nằm ngủ."
-    },
-    {
       "jro": "GaTrúc něh sên hình moq ramoq.",
       "vi": "Trúc yên lặng xem tranh."
-    },
-    {
-      "jro": "So vĩq mơch jâng GaTrúc de.",
-      "vi": "Con Mực nằm ngủ gần chân Trúc."
-    },
-    {
-      "jro": "Õh lu lâh canoq caheq?",
-      "vi": "(Em nghỉ ngơi thế nào?)"
-    },
-    {
-      "jro": "Moih cắp jâng ŏh Mai de.",
-      "vi": "Muỗi đốt chân Mai."
-    },
-    {
-      "jro": "GaTrúc tap moih.",
-      "vi": "Trúc đập muỗi."
-    },
-    {
-      "jro": "Mê dăng mùng.",
-      "vi": "Mẹ buông mùng."
-    },
-    {
-      "jro": "Mê dah moih.",
-      "vi": "Mẹ xua muỗi."
-    },
-    {
-      "jro": "Õh Mai vĩq yăh lốc.",
-      "vi": "(Mai ngủ ngon-lành.)"
     },
     {
       "jro": "Điền hoạt động đúng:",
@@ -2586,60 +1919,20 @@
       "vi": "• GaTrúc, ŏh Mai [ngủ trong mùng]."
     },
     {
-      "jro": "En nõq khây ŏh sô măq!",
-      "vi": "Rồi các em sẽ lớn trông thấy!"
-    },
-    {
-      "jro": "Õh Mai cơnh sa ayh gong.",
-      "vi": "Mai chỉ ưa ăn thịt."
-    },
-    {
-      "jro": "GaTrúc cơnh sa ayh ca.",
-      "vi": "Trúc chỉ thích ăn cá."
-    },
-    {
       "jro": "Sa ayh du sinlơ đăng yăh.",
       "vi": "(Chỉ ăn một thứ không tốt.)"
-    },
-    {
-      "jro": "Mê ôp ca. Mê rao ca dijrõh.",
-      "vi": "Mẹ làm cá. Mẹ rửa cá thật sạch."
-    },
-    {
-      "jro": "GaTrúc rao pai diyah a daq cồ jrõh.",
-      "vi": "Trúc rửa kỹ rau bằng nước sạch."
     },
     {
       "jro": "Õh Mai sa bănh đăng lu mĩnh.",
       "vi": "Mai nhai bánh luôn miệng."
     },
     {
-      "jro": "Lor a war sa GaTrúc sa tangơi.",
-      "vi": "Trúc ăn bắp trước bữa cơm."
-    },
-    {
-      "jro": "Khây ŏh căh tôr:",
-      "vi": "(Các em nhớ:)"
-    },
-    {
-      "jro": "• Rao ti, tu mặt lor a sa piêng.",
-      "vi": "(Rửa tay, rửa mặt trước khi ăn.)"
-    },
-    {
       "jro": "• Lăm sa gũq yăh sõng.",
       "vi": "(Trong khi ăn, ngồi ngay-ngắn.)"
     },
     {
-      "jro": "Daq tanlô sâq, huch đăng gěh.",
-      "vi": "Nước ao bẩn, không uống được."
-    },
-    {
       "jro": "Mê an GaTrúc bây ŏh Mai huch daq jrõh.",
       "vi": "Mẹ cho Trúc và Mai uống nước lọc."
-    },
-    {
-      "jro": "Daq cồ gěh gâm khlŭh bây chẽq la-ah.",
-      "vi": "Nước lọc đã đun sôi để nguội."
     },
     {
       "jro": "Nggan bây li GaTrúc de.",
@@ -2670,14 +1963,6 @@
       "vi": "Chẳng dùng trái cây xanh.)"
     },
     {
-      "jro": "Daq ntu cồ daq huch,",
-      "vi": "Gěh gâm khlŭh bay jrõh."
-    },
-    {
-      "jro": "Daq tanlô něh sâq lũng,",
-      "vi": "Něh ôp an vơn ji."
-    },
-    {
       "jro": "(Nước uống là nước giếng,",
       "vi": "Đã lọc kỹ đun sôi."
     },
@@ -2690,104 +1975,20 @@
       "vi": "Trúc, Mai chỉ ăn quả chín."
     },
     {
-      "jro": "Play dŭm něh pa-ăm bây bổ wõq.",
-      "vi": "Quả chín vừa bổ vừa ngon."
-    },
-    {
-      "jro": "Play hwŭt něh sat bây chot.",
-      "vi": "Quả xanh chua hoặc chát."
-    },
-    {
-      "jro": "Õh cơnh play lây dông?",
-      "vi": "(Em chọn thứ quả nào?)"
-    },
-    {
-      "jro": "Ôp gõq mreq něh hơr lũng.",
-      "vi": "Nhiều ớt cay quá!"
-    },
-    {
-      "jro": "Sa kẹo gõq něh ji sêch.",
-      "vi": "Ăn nhiều kẹo hại răng."
-    },
-    {
-      "jro": "Sa ayh var pe lâm choh.",
-      "vi": "Ăn vài cái thôi."
-    },
-    {
-      "jro": "Õh Mai viq lor. Õh Mai căh lor.",
-      "vi": "Mai ngủ sớm. Mai dậy sớm."
-    },
-    {
       "jro": "Mai bây GaTrúc, vu lây vanõh dông?",
       "vi": "(Mai và Trúc, ai ngoan hơn?)"
-    },
-    {
-      "jro": "Avôq palây gěh nhi trương.",
-      "vi": "Đầu làng có trường Tiểu học."
     },
     {
       "jro": "Mơch trương gěh daq ntu me ôp.",
       "vi": "Gần trường có giếng mới xây."
     },
     {
-      "jro": "Palây vơn jrõh bây rom.",
-      "vi": "Làng ta sạch và đẹp."
-    },
-    {
-      "jro": "Gõq nhi gěh tơm chhơ.",
-      "vi": "Nhiều nhà có vườn cây."
-    },
-    {
-      "jro": "Ngai ngai là nhi ratung ăch me.",
-      "vi": "Xa xa là nhà tiêu mới."
-    },
-    {
-      "jro": "Alưr nhi gěh rông tơm play chhơ.",
-      "vi": "Sau nhà có vườn cây trái."
-    },
-    {
       "jro": "Nhi GaTrúc bây ŏh Mai de.",
       "vi": "Nhà của Trúc và Mai."
     },
     {
-      "jro": "Nhi jrõh bây yăh lahợt.",
-      "vi": "Nhà sạch và mát."
-    },
-    {
-      "jro": "Avôq nhi gěh ntěh hwi.",
-      "vi": "Trước nhà có sân rộng."
-    },
-    {
       "jro": "Lũh ŏh cơnh nhi heq?",
       "vi": "(Tại sao em thích nhà này?)"
-    },
-    {
-      "jro": "Mê bốih nhi. Mê nhũp chổi cồ jong tong.",
-      "vi": "Mẹ quét nhà. Mẹ dùng chổi cán dài."
-    },
-    {
-      "jro": "GaTrúc jut bàng gê.",
-      "vi": "Trúc lau bàn ghế."
-    },
-    {
-      "jro": "Õh Mai doq ncao. Bình ncao rom lũng.",
-      "vi": "Mai cắm hoa. Bình hoa đẹp quá!"
-    },
-    {
-      "jro": "Õh gěh ôp păch lây chẽq tăm-ôp bây mê?",
-      "vi": "(Em đã làm gì giúp mẹ?)"
-    },
-    {
-      "jro": "Nhi trương yăh hwi bây yăh lahợt.",
-      "vi": "Trường rộng và thoáng."
-    },
-    {
-      "jro": "Vơn tăm-dônh pa-ar.",
-      "vi": "Ta cùng nhặt giấy rác."
-    },
-    {
-      "jro": "Nhi trương vơn jrõh bây lahợt.",
-      "vi": "Trường ta sạch và mát."
     },
     {
       "jro": "Vơn jơ ntěh nhi trương dijrõh.",
@@ -2834,16 +2035,8 @@
       "vi": "Đoàn Y tế về làng."
     },
     {
-      "jro": "Ăp ndu tăm-siêr saq tăm play.",
-      "vi": "Mọi người rủ nhau ra tiêm chủng."
-    },
-    {
       "jro": "Õh Mai něh chhật",
       "vi": "đức) sindặc ti ao. (Mai vén sẵn tay áo lên."
-    },
-    {
-      "jro": "Y-Tá tăm play an GaTrúc iưn.",
-      "vi": "Cô y tá chủng đậu cho Trúc."
     },
     {
       "jro": "Õh Mai něh gũq u nhi něh lu học.",
@@ -2854,108 +2047,48 @@
       "vi": "Má cho Mai uống thuốc."
     },
     {
-      "jro": "Õh Mai nhup nseng cheq chhêr muh.",
-      "vi": "Mai dùng khăn tay hỉ mũi."
-    },
-    {
       "jro": "Õh Mai viq lu.",
       "vi": "Mai nằm nghỉ."
-    },
-    {
-      "jro": "Õh Mai krêng sa piêng. Něh sa por.",
-      "vi": "Mai kiêng cơm. Mai ăn cháo."
-    },
-    {
-      "jro": "Khây thùng heq vênh ayh candoq.",
-      "vi": "Những thùng này đầy rác rưởi."
-    },
-    {
-      "jro": "Rawây, moih, cane uěh rih u vi heq.",
-      "vi": "Ruồi, muỗi, chuột ưa sống nơi đây."
-    },
-    {
-      "jro": "Nõq vơn phải tachựt něh.",
-      "vi": "Cần phải diệt chúng."
     },
     {
       "jro": "Vu ôp păch lây?",
       "vi": "Họ làm gì?"
     },
     {
-      "jro": "Lêng vi heq đăng phùng nděh jot.",
-      "vi": "Chơi trong vườn không bị xe cán."
-    },
-    {
-      "jro": "Ơ Mai! Vâng đức tiêng meo.",
-      "vi": "Mai ơi! Đừng kéo đuôi mèo."
-    },
-    {
-      "jro": "GaTrúc chăch ti něh saq wõng mê.",
-      "vi": "Trúc đứt tay; em đi tìm mẹ."
-    },
-    {
       "jro": "Mê nhup jrơu poq ti an GaTrúc iưn.",
       "vi": "Mẹ buộc thuốc cho Trúc."
-    },
-    {
-      "jro": "GaTrúc bây ŏh Mai saq a maq trong.",
-      "vi": "Trúc và Mai đi trên lề đường."
     },
     {
       "jro": "Khây něh sên var maq lor a cơnh găn.",
       "vi": "Trước khi qua đường hai em nhìn hai bên."
     },
     {
-      "jro": "Heq là Cảnh-Sát.",
-      "vi": "Đây là Cảnh-sát-viên."
+      "jro": "Tất vôq trong nõq khây něh cơnh găn trong.",
+      "vi": "Đến đầu đường hai em mới băng qua."
+    },
+    {
+      "jro": "Tamun heq pađau trong an nděh ndoq sĩq saq.",
+      "vi": "Người này chỉ đường cho xe cộ qua lại."
     },
     {
       "jro": "Tamun heq pađau trong an GaTrúc iưn.",
       "vi": "Người này chỉ đường cho Trúc."
     },
     {
-      "jro": "Tamun heq têch ŏh Mai a găn trong.",
-      "vi": "Người này dắt Mai qua đường."
-    },
-    {
-      "jro": "Õh Mai nhup kéo chit pa-ar.",
-      "vi": "Mai dùng kéo cắt giấy."
-    },
-    {
-      "jro": "Ôp en GaTrúc cheq prăp to sĩq vlâq.",
-      "vi": "Dùng xong, Trúc cất dao vào hộp."
-    },
-    {
       "jro": "Chit en ŏh Mai dợp sĩq vlâq mê de.",
       "vi": "Dùng xong, Mai đưa kéo trả mẹ."
-    },
-    {
-      "jro": "Canoq đăng phùng chăch ti.",
-      "vi": "Như thế không sợ nguy-hiểm."
-    },
-    {
-      "jro": "Nõq GaTrúc něh uěh meo khwach, so cắp.",
-      "vi": "Cho nên Trúc hay bị mèo cào, chó cắn."
     },
     {
       "jro": "Õh vâng jiloq khây con nõq con heq vây.",
       "vi": "Em không trêu chọc loài vật."
     },
     {
-      "jro": "En mê iau GaTrúc saq tu nhi ji.",
-      "vi": "Rồi mẹ dẫn Trúc đến trạm cứu thương [TRẠM CỨU THƯƠNG]."
+      "jro": "Õh Mai něh chăch ti. Něh mprăng saq cuôl mê.",
+      "vi": "Mai bị đứt tay, Mai chạy đi gọi mẹ."
     },
     {
       "jro": "U vi nõq GaTrúc gěh poq jrơu.",
       "vi": "Ở đó Trúc sẽ được buộc thuốc / tiêm phòng dại."
-    },
-    {
-      "jro": "Vơn saq lêng sũng rông play,",
-      "vi": "Ngai daq cồ jru, ngai trong gõq nděh."
-    },
-    {
-      "jro": "Lũh trong, saq a maq trong,",
-      "vi": "Cảnh-Sát cồ nhâng ganai vơn de."
     },
     {
       "jro": "(Chúng ta chơi ở trong vườn,",
@@ -2964,10 +2097,6 @@
     {
       "jro": "Ra đường, đi ở trên hè,",
       "vi": "Cảnh-binh chính thực bạn bè của ta.)"
-    },
-    {
-      "jro": "Vâng pâm khây con sũng nhi,",
-      "vi": "Jơ ntrách chứt ji cồ gěh ăp năr."
     },
     {
       "jro": "Chăch ti phải sô cuôl vu,",
